@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # Video Tutorial
 
-As a college librarian, I taught students how to use the PsycINFO research database. Before students attended a PsycINFO workshop, they watched a video tutorial that I created. After the students watched the video, they completed an online assignment. The pre-workshop exercises allowed me to use an active learning approach during the workshop. The students learned by doing, and I was their guide.
+As a college librarian, I taught students how to use the PsycINFO research database. Before students attended a PsycINFO workshop, they watched this video tutorial and completed an online assignment. Assigning pre-workshop exercises allowed me to use an active learning approach to my instruction during the workshop. The students learned by doing, and I was their guide.
 
 ## How to get to PsycINFO
 
