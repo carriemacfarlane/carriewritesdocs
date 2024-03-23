@@ -5,10 +5,10 @@ authors:
     title: Technical Writer
     url: https://www.linkedin.com/in/carrie-m-macfarlane/
     image_url: https://gitlab.com/uploads/-/system/user/avatar/13584356/avatar.png?width=400
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
+  - name: Carrie M. Macfarlane
+    title: Technical Writer
+    url: https://www.linkedin.com/in/carrie-m-macfarlane/
+    image_url: https://gitlab.com/uploads/-/system/user/avatar/13584356/avatar.png?width=400
 tags: [greetings]
 ---
 

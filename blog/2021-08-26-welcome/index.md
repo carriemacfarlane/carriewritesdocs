@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Instructions
-authors: [slorber, yangshun]
+authors: [carriem, carriem]
 tags: [facebook, hello, docusaurus]
 ---
 

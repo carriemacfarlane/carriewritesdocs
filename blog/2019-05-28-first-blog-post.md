@@ -2,10 +2,10 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  name: Carrie M. Macfarlane
+  title: Technical Writer
+  url: https://www.linkedin.com/in/carrie-m-macfarlane/
+  image_url: https://gitlab.com/uploads/-/system/user/avatar/13584356/avatar.png?width=400
 tags: [hola, docusaurus]
 ---
 
