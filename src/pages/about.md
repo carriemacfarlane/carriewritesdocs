@@ -4,8 +4,10 @@ title: About
 
 ## About Me
 
-I'm an amateur gardener, a novice sailor, and a lifelong friend of felines.
+I'm a technical writer and a former college librarian. 
+
+Outside of work, I'm an amateur gardener, a novice sailor, and a lifelong friend of felines.
 
 ## About This Site
 
-I chose the Docusaurus SSG (static site generator) for this site because a tech writer colleague moved their docs to Docusaurus and was happy with the change. I’m using GitHub to maintain the site because I want to keep my Git skills current.
+This site uses Docusaurus SSG (static site generator). Maintaining and hosting the site on GitHub helps me keep my Git skills current.
