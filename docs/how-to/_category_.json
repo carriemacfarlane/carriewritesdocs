@@ -3,4 +3,4 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "I created this how-to guide when Development Review Board (DRB) meetings went online due to COVID. Because any DRB member might need to run a meeting without notice, I separated the content into chunks that would be easy to find and scan. The original guide was a printed PDF. I used the Docusaurus tutorial layout to recreate it here."}}
+    "description": "I created a how-to guide when Development Review Board (DRB) meetings went online due to COVID. Because any DRB member might need to run a meeting without notice, I separated the content into chunks that would be easy to find and scan. The original guide was a printed PDF. I recreated it here using the Docusaurus tutorial layout."}}
