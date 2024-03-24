@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio_site=self.webpackChunkportfolio_site||[]).push([[5997],{7845:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/carriewritesdocs/blog/tags/facebook","allTagsPath":"/carriewritesdocs/blog/tags","count":1,"unlisted":false}')}}]);

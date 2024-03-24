@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio_site=self.webpackChunkportfolio_site||[]).push([[886],{1160:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/carriewritesdocs/blog/tags/docusaurus","allTagsPath":"/carriewritesdocs/blog/tags","count":4,"unlisted":false}')}}]);
