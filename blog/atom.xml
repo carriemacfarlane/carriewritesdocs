@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.io/carriewritesdocs/blog</id>
-    <title>Carrie Writes Docs Blog</title>
+    <title>Carrie Miyoshi Macfarlane Blog</title>
     <updated>2024-03-24T15:21:30.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.io/carriewritesdocs/blog"/>
-    <subtitle>Carrie Writes Docs Blog</subtitle>
+    <subtitle>Carrie Miyoshi Macfarlane Blog</subtitle>
     <icon>https://github.io/carriewritesdocs/img/avatar200px-transparent.png</icon>
     <entry>
         <title type="html"><![CDATA[Citations for Time-Strapped Technical Writers]]></title>
