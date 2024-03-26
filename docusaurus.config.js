@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Carrie Writes Docs',
+  title: 'Carrie Miyoshi Macfarlane',
   tagline: 'Technical communicator. Community leader.',
   favicon: 'img/avatar200px-transparent.png',
 
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Carrie Miyoshi Macfarlane',
+        title: 'Carrie Writes Docs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/avatar200px-transparent.png',
@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/carriemacfarlane/carriewritesdocs',
             label: 'GitHub',
             position: 'right',
           },
@@ -89,20 +89,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Contact',
+            title: 'Contact Me',
             items: [
               {
-                label: 'carrie.m.macfarlane@gmail.com',
+                label: 'Email',
                 href: 'mailto:carrie.m.macfarlane@gmail.com',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Linktree',
-                href: 'https://linktr.ee/cmmac',
               },
               {
                 label: 'LinkedIn',
@@ -111,7 +102,6 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
