@@ -4,7 +4,7 @@ title: About
 
 # About
 
-![photo](/img/alva-square-100px.png)
+![photo](/img/alva-square.jpeg)
 
 ## About Me
 

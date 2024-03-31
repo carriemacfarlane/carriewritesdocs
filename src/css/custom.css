@@ -26,3 +26,39 @@
   --ifm-color-primary-lightest: #f4e4e3;
   --ifm-background-color: #0b0b0b;
 }
+
+/* styles below apply to DOCS folder */
+
+.theme-doc-markdown img {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  float: right;
+  margin-left: 20px
+}
+
+.theme-doc-markdown h1 {
+  font-size: 32px;
+}
+
+.theme-doc-markdown h2 {
+  font-size: 24px;
+}
+
+.theme-doc-markdown h3 {
+  font-size: 20px;
+}
+
+.theme-doc-markdown h4 {
+  font-size: 16px;
+}
+
+/* styles below apply to PAGES folder */
+
+.main-wrapper img {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  float: right;
+  margin-left: 20px
+}
