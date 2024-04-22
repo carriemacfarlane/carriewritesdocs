@@ -2,11 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.io/carriewritesdocs/blog</id>
     <title>Carrie Miyoshi Macfarlane Blog</title>
-    <updated>2024-03-24T15:21:30.000Z</updated>
+    <updated>2024-04-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.io/carriewritesdocs/blog"/>
     <subtitle>Carrie Miyoshi Macfarlane Blog</subtitle>
     <icon>https://github.io/carriewritesdocs/img/avatar200px-transparent.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Organize Content Into Sections]]></title>
+        <id>https://github.io/carriewritesdocs/blog/sections</id>
+        <link href="https://github.io/carriewritesdocs/blog/sections"/>
+        <updated>2024-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago, I started working on a help article for a data entry form. The form produces reports that can be used to evaluate profitability, uncover data entry errors, send mass mailings, and more. The form has grown longer over the years, and it now contains more than 30 input fields with no section dividers and no headings. The goal of my article was to define all the fields. This was a thorny challenge for information architecture.]]></summary>
+        <content type="html"><![CDATA[<p>A few weeks ago, I started working on a help article for a data entry form. The form produces reports that can be used to evaluate profitability, uncover data entry errors, send mass mailings, and more. The form has grown longer over the years, and it now contains more than 30 input fields with no section dividers and no headings. The goal of my article was to define all the fields. This was a thorny challenge for information architecture.</p>
+<p>How would I format the article so that a reader could quickly make sense of the content? If I listed the fields one after the other with no section dividers and no headings, my list would be too long to comprehend. If I divided the list into categories, that would falsely suggest that the form is divided into categories too.</p>
+<p>As a writer, I know that separating large blocks of content into chunks makes scanning easier, and as a former educator, I know that organizing content into meaningful categories helps people learn. So I decided to break my lists into sections based on the order in which the fields appear in the form. Within each section, I would create subsections based on function.</p>
+<p>This is an imperfect solution, but it’s the best solution for now. (Separately, I’ll recommend a new organization scheme for the form!) I found a couple of sources to support my decisions.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/sections#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h2>
+<ul>
+<li>Help article for a long form</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="research-questions">Research Questions<a href="https://github.io/carriewritesdocs/blog/sections#research-questions" class="hash-link" aria-label="Direct link to Research Questions" title="Direct link to Research Questions">​</a></h2>
+<ul>
+<li>Why should large blocks of content be divided into sections?</li>
+<li>Why should content be organized into categories?</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="reminders">Reminders<a href="https://github.io/carriewritesdocs/blog/sections#reminders" class="hash-link" aria-label="Direct link to Reminders" title="Direct link to Reminders">​</a></h2>
+<ul>
+<li>Breaking up large blocks of content into chunks makes scanning easier.</li>
+<li>Grouping related content together helps people understand it and remember it.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/sections#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h2>
+<ul>
+<li><a href="https://www.learningscientists.org/blog/2023/7/6?rq=chunk" target="_blank" rel="noopener noreferrer">Sources of Cognitive Load | The Learning Scientists</a></li>
+<li><a href="https://www.nngroup.com/articles/chunking/" target="_blank" rel="noopener noreferrer">How Chunking Helps Content Processing | Nielsen Norman Group</a></li>
+</ul>]]></content>
+        <author>
+            <name>Carrie M. Macfarlane</name>
+            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
+        </author>
+        <category label="sections" term="sections"/>
+        <category label="headings" term="headings"/>
+        <category label="online reading" term="online reading"/>
+        <category label="learning" term="learning"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Citations for Time-Strapped Technical Writers]]></title>
         <id>https://github.io/carriewritesdocs/blog/welcome</id>
