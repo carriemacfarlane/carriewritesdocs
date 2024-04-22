@@ -53,7 +53,7 @@
   font-size: 16px;
 }
 
-/* styles below apply to PAGES folder */
+/* styles below apply to PAGES and BLOG folder */
 
 .main-wrapper img {
   width: 200px;
@@ -62,3 +62,22 @@
   float: right;
   margin-left: 20px
 }
+
+.main-wrapper h1 {
+  font-size: 32px;
+}
+
+.main-wrapper h2 {
+  font-size: 24px;
+}
+
+.main-wrapper h3 {
+  font-size: 20px;
+}
+
+.main-wrapper h4 {
+  font-size: 16px;
+}
+
+/* styles below apply to BLOG folder */
+
