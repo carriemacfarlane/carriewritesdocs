@@ -1,10 +1,12 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+import tailwindPlugin from "./plugins/tailwind-plugin.cjs";
 
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
+
 const config = {
   title: 'Carrie Miyoshi Macfarlane',
   tagline: 'Technical communicator. Community leader.',
@@ -31,6 +33,8 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  plugins: [tailwindPlugin],
 
   presets: [
     [
@@ -70,14 +74,14 @@ const config = {
           src: 'img/avatar200px-transparent.png',
         },
         items: [
-          {to: '/about', label: 'About', position: 'left'},
+          { to: '/about', label: 'About', position: 'left' },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Work',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/carriemacfarlane/carriewritesdocs',
             label: 'GitHub',
