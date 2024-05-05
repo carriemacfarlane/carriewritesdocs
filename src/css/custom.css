@@ -18,6 +18,7 @@
   --ifm-color-primary-light: #a84a43;
   --ifm-color-primary-lighter: #b04d46;
   --ifm-color-primary-lightest: #bd6059;
+  --ifm-footer-padding-vertical: 12px;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -30,6 +31,7 @@
   --ifm-color-primary-lighter: #e4bebc;
   --ifm-color-primary-lightest: #f4e4e3;
   --ifm-background-color: #0b0b0b;
+  --ifm-footer-padding-vertical: 12px;
 }
 
 /* styles below apply to DOCS folder */
@@ -87,6 +89,23 @@
 /* Blog titles defined in markdown */
 .markdown h1:first-child {
   color: var(--ifm-color-primary)
+}
+
+.footer__link-item {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  line-height: 1.5;
+}
+
+.navbar__link {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.footer__col {
+  margin-bottom: 0;
 }
 
 /* styles below apply to BLOG folder */
