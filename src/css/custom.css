@@ -61,14 +61,6 @@
 }
 
 /* styles below apply to PAGES and BLOG folder */
-/* 
-.main-wrapper img {
-  width: 200px;
-  height: 200px;
-  border-radius: 20px;
-  float: right;
-  margin-left: 20px
-} */
 
 .main-wrapper h1 {
   font-size: 32px;
@@ -109,3 +101,7 @@
 }
 
 /* styles below apply to BLOG folder */
+
+.markdown a {
+  text-decoration: underline;
+}
