@@ -13,7 +13,8 @@ function HomepageHeader() {
   return (
     // <header className={clsx('hero hero--primary', styles.heroBanner)}>
     <header >
-      <div className="container">
+      {/* <div className="container"> */}
+      <div>
         {/* <h1 className="hero__title">{siteConfig.title}</h1> */}
         {/* <p className="hero__subtitle">{siteConfig.tagline}</p> */}
         {/* <div className={styles.buttons}>
@@ -23,13 +24,13 @@ function HomepageHeader() {
             Docusaurus Tutorial - 5min ⏱️
           </Link>
         </div> */}
-        <div className="flex flex-row p-8 gap-8">
-          <div className="w-1/2 flex flex-col justify-center">
-            <p className="mb-8 text-5xl font-black">Hi, I'm Carrie.</p>
-            <p>I’m an organized self-starter who knows how to do research. I'll ask informed questions, and I'll finish your work on time.</p>
+        <div className="flex flex-col tablet:flex-row p-8 tablet:px-32 py-8 gap-8">
+          <div className="tablet:w-1/2 flex flex-col justify-center">
+            <p className="mb-2 tablet:mb-8 text-3xl tablet:text-5xl font-black">Hi, I'm Carrie.</p>
+            <p className="tablet:w-2/3">I’m an organized self-starter who knows how to do research. I'll ask informed questions, and I'll finish your work on time.</p>
           </div>
-          <div className="w-1/2">
-            <img src={picOfCarrie} />
+          <div>
+            <img className="w-96 shadow-lg shadow-slate-400" src={picOfCarrie} />
           </div>
         </div>
       </div>
@@ -44,9 +45,9 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <main>
+      {/* <main>
         <HomepageFeatures />
-      </main>
+      </main> */}
     </Layout>
   );
 }
