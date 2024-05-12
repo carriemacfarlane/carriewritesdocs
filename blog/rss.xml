@@ -13,10 +13,10 @@
             <link>https://github.io/carriewritesdocs/blog/trust</link>
             <guid>https://github.io/carriewritesdocs/blog/trust</guid>
             <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Technical communication podcasts funnel my thoughts toward work every morning during my commute. In a Content Strategy podcast that I listened to a few days ago, Kristina Halvorson’s guest Chelsea Larsson referred to something called the Trust Equation. As Larsson described it, the Trust Equation is a framework that describes how people assess the trustworthiness of their colleagues. It caught my attention because it validated my approach to work life. I think I have a decent chance of getting a good score!]]></description>
-            <content:encoded><![CDATA[<p>Technical communication podcasts funnel my thoughts toward work every morning during my commute. In a <em>Content Strategy</em> podcast that I listened to a few days ago, Kristina Halvorson’s guest Chelsea Larsson referred to something called the Trust Equation. As Larsson described it, the Trust Equation is a framework that describes how people assess the trustworthiness of their colleagues. It caught my attention because it validated my approach to work life. I think I have a decent chance of getting a good score!</p>
+            <description><![CDATA[Technical communication podcasts funnel my thoughts toward work every morning during my commute. In a Content Strategy podcast that I listened to a few days ago, Kristina Halvorson’s guest Chelsea Larsson referred to something called the Trust Equation. As Larsson described it, the Trust Equation is a framework that illustrates how people assess the trustworthiness of their colleagues. It caught my attention because it validated my approach to work life. I think I have a decent chance of getting a good score!]]></description>
+            <content:encoded><![CDATA[<p>Technical communication podcasts funnel my thoughts toward work every morning during my commute. In a <em>Content Strategy</em> podcast that I listened to a few days ago, Kristina Halvorson’s guest Chelsea Larsson referred to something called the Trust Equation. As Larsson described it, the Trust Equation is a framework that illustrates how people assess the trustworthiness of their colleagues. It caught my attention because it validated my approach to work life. I think I have a decent chance of getting a good score!</p>
 <p>In the Trust Equation, self-orientation is the denominator. I tend to keep my self-orientation at work fairly low. I prefer learning about colleagues to talking about myself, and showing that I care about other people  makes me feel good.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/trust#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/trust#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
 <ul>
 <li><a href="https://www.contentstrategy.com/episodes/episode-42-chelsea-larsson-zendesk-tactics-to-advocate-for-content-design" target="_blank" rel="noopener noreferrer">Ep. 42: Chelsea Larsson, Zendesk | The Content Strategy Podcast</a></li>
 <li><a href="https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation" target="_blank" rel="noopener noreferrer">Understanding The Trust Equation | Trusted Advisor.com</a></li>
@@ -35,17 +35,21 @@
 <p>How would I format the article so that a reader could quickly make sense of the content? If I listed the fields one after the other with no section dividers and no headings, my list would be too long to comprehend. If I divided the list into categories, that would falsely suggest that the form is divided into categories too.</p>
 <p>As a writer, I know that separating large blocks of content into chunks makes scanning easier, and as a former educator, I know that organizing content into meaningful categories helps people learn. So I decided to break my lists into sections based on the order in which the fields appear in the form. Within each section, I would create subsections based on function.</p>
 <p>This is an imperfect solution, but it’s the best solution for now. (Separately, I’ll recommend a new organization scheme for the form!) I found a couple of sources to support my decisions.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/sections#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/sections#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Help article for a long form</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/sections#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h3>
 <ul>
 <li>Why should large blocks of content be divided into sections?</li>
 <li>Why should content be organized into categories?</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/sections#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/sections#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h3>
 <ul>
 <li>Breaking up large blocks of content into chunks makes scanning easier.</li>
 <li>Grouping related content together helps people understand it and remember it.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/sections#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/sections#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
 <ul>
 <li><a href="https://www.learningscientists.org/blog/2023/7/6?rq=chunk" target="_blank" rel="noopener noreferrer">Sources of Cognitive Load | The Learning Scientists</a></li>
 <li><a href="https://www.nngroup.com/articles/chunking/" target="_blank" rel="noopener noreferrer">How Chunking Helps Content Processing | Nielsen Norman Group</a></li>
@@ -64,22 +68,22 @@
             <content:encoded><![CDATA[<p>I’m creating templates for colleagues to use when they write articles for the internal Knowledgebase. This week, I tested my how-to template by comparing it to an older how-to article that was already published in the Knowledgebase. The article in the Knowledgebase was user-friendly in many ways. It focused on a single problem, it opened with an informative scope statement, and it provided plenty of white space.</p>
 <p>What my editorial eye zoomed in on was the lower half of the page. The content there was divided into a series of short paragraphs, each only 1 or 2 sentences long. When I read the paragraphs more closely, I realized that many of them were troubleshooting steps.</p>
 <p>I concluded that my how-to template should call out the importance of using numbered lists for steps. It will need to explain why numbered lists are helpful to readers.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/lists#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/lists#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
 <ul>
 <li>Templates</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/lists#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/lists#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h3>
 <ul>
 <li>Why should we use bulleted lists and numbered lists?</li>
 <li>Why should long lists be organized and divided into sections with headings?</li>
 <li>Why do we need white space?</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/lists#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/lists#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h3>
 <ul>
 <li>People don’t read online, they seek</li>
 <li>To guide the reader’s attention, ask: Can you break any complicated concepts out into groups of simple items? If the answer is yes, then use numbered (or, <em>ordered</em>) lists for sequential items, and use bulleted (or, <em>unordered</em>) lists for non-sequential items</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/lists#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/lists#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
 <ul>
 <li><a href="https://www.nngroup.com/articles/how-people-read-online/" target="_blank" rel="noopener noreferrer">How People Read Online: New and Old Findings</a> | Nielsen Norman Group (2020)</li>
 <li><a href="https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/" target="_blank" rel="noopener noreferrer">F-Shaped Pattern of Reading on the Web: Misunderstood, But Still Relevant (Even on Mobile)</a> | Nielsen Norman Group (2017)</li>
