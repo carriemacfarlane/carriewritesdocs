@@ -5,6 +5,4 @@ sidebar_position: 1
 
 # Work Samples
 
-![photo](/img/tree-square-200px.jpeg)
-
- My teaching and technology skills help me write readable content for a variety of audiences.
+I love creating user-friendly documentation. Years of experience with teaching and technology help me write for a variety of audiences.
