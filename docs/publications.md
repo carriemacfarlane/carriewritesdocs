@@ -20,3 +20,7 @@ My experience with writing, teaching, and technology sometimes comes together to
 * [Yes, Cleaning Up Documentation Can Be Exhilarating](https://carrie-m-macfarlane.medium.com/yes-cleaning-up-documentation-can-be-exhilarating-dd9332e7285b): Write the Docs Portland 2022 was my first time using GitHub and I had tons of fun! I wrote this essay hoping to inspire future hosts to follow the lead of my fabulous hosts from Open Web Docs.
 * [Real Research Begins with a Question](https://carrie-m-macfarlane.medium.com/real-research-begins-with-a-question-e3a02073a7d5): I reflect on my experiences with students who are new to research, and I find we have something in common.
 * [Tuning In to Emotions is Key for Teaching Tech](https://carrie-m-macfarlane.medium.com/tuning-in-to-emotions-is-key-for-teaching-tech-b8bf2af59537): A reminder that empathy is essential for tech instruction.
+
+## STC Presentation
+
+* [Shhh... Listen to How this Stereotypical Librarian Teaches with Tech](https://youtu.be/4Qdhmr7Fg0M?si=KtXb7z3fb3XOM4m9): This is a recording of a talk I gave to members of the Instructional Design and Learning chapter of the Society for Technical Communication.
