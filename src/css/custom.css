@@ -64,18 +64,22 @@
 
 .main-wrapper h1 {
   font-size: 32px;
+  color: var(--ifm-color-primary)
 }
 
 .main-wrapper h2 {
   font-size: 24px;
+  color: var(--ifm-color-primary)
 }
 
 .main-wrapper h3 {
   font-size: 20px;
+  color: var(--ifm-color-primary)
 }
 
 .main-wrapper h4 {
   font-size: 16px;
+  color: var(--ifm-color-primary)
 }
 
 /* Blog titles defined in markdown */
@@ -104,4 +108,12 @@
 
 .markdown a {
   text-decoration: underline;
+}
+
+.markdown ul {
+  list-style: disc;
+}
+
+.markdown ul li {
+  margin-left: 1rem;
 }
