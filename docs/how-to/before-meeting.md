@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Before The Meeting
+# Before the Meeting
 
 The ZA and the Zoom Host prepare for the meeting at least one week in advance, and they arrive at City Hall early on the day of the meeting.
 
