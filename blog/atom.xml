@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.io/carriewritesdocs/blog</id>
     <title>Carrie Miyoshi Macfarlane Blog</title>
-    <updated>2024-04-22T00:00:00.000Z</updated>
+    <updated>2024-05-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.io/carriewritesdocs/blog"/>
     <subtitle>Carrie Miyoshi Macfarlane Blog</subtitle>
     <icon>https://github.io/carriewritesdocs/img/avatar200px-transparent.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Trust Equation]]></title>
+        <id>https://github.io/carriewritesdocs/blog/trust</id>
+        <link href="https://github.io/carriewritesdocs/blog/trust"/>
+        <updated>2024-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical communication podcasts funnel my thoughts toward work every morning during my commute. In a Content Strategy podcast that I listened to a few days ago, Kristina Halvorson’s guest Chelsea Larsson referred to something called the Trust Equation. As Larsson described it, the Trust Equation is a framework that describes how people assess the trustworthiness of their colleagues. It caught my attention because it validated my approach to work life. I think I have a decent chance of getting a good score!]]></summary>
+        <content type="html"><![CDATA[<p>Technical communication podcasts funnel my thoughts toward work every morning during my commute. In a <em>Content Strategy</em> podcast that I listened to a few days ago, Kristina Halvorson’s guest Chelsea Larsson referred to something called the Trust Equation. As Larsson described it, the Trust Equation is a framework that describes how people assess the trustworthiness of their colleagues. It caught my attention because it validated my approach to work life. I think I have a decent chance of getting a good score!</p>
+<p>In the Trust Equation, self-orientation is the denominator. I tend to keep my self-orientation at work fairly low. I prefer learning about colleagues to talking about myself, and showing that I care about other people  makes me feel good.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/trust#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h2>
+<ul>
+<li><a href="https://www.contentstrategy.com/episodes/episode-42-chelsea-larsson-zendesk-tactics-to-advocate-for-content-design" target="_blank" rel="noopener noreferrer">Ep. 42: Chelsea Larsson, Zendesk | The Content Strategy Podcast</a></li>
+<li><a href="https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation" target="_blank" rel="noopener noreferrer">Understanding The Trust Equation | Trusted Advisor.com</a></li>
+</ul>]]></content>
+        <author>
+            <name>Carrie M. Macfarlane</name>
+            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
+        </author>
+        <category label="podcast" term="podcast"/>
+        <category label="communication" term="communication"/>
+        <category label="interpersonal" term="interpersonal"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Organize Content Into Sections]]></title>
         <id>https://github.io/carriewritesdocs/blog/sections</id>
@@ -21,12 +42,12 @@
 <ul>
 <li>Help article for a long form</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="research-questions">Research Questions<a href="https://github.io/carriewritesdocs/blog/sections#research-questions" class="hash-link" aria-label="Direct link to Research Questions" title="Direct link to Research Questions">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/sections#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h2>
 <ul>
 <li>Why should large blocks of content be divided into sections?</li>
 <li>Why should content be organized into categories?</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="reminders">Reminders<a href="https://github.io/carriewritesdocs/blog/sections#reminders" class="hash-link" aria-label="Direct link to Reminders" title="Direct link to Reminders">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/sections#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h2>
 <ul>
 <li>Breaking up large blocks of content into chunks makes scanning easier.</li>
 <li>Grouping related content together helps people understand it and remember it.</li>
@@ -46,19 +67,6 @@
         <category label="learning" term="learning"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Citations for Time-Strapped Technical Writers]]></title>
-        <id>https://github.io/carriewritesdocs/blog/welcome</id>
-        <link href="https://github.io/carriewritesdocs/blog/welcome"/>
-        <updated>2024-03-24T15:21:30.000Z</updated>
-        <summary type="html"><![CDATA[This is a curated collection of research-driven reminders based on lessons I've learned as a technical writer and former college librarian.]]></summary>
-        <content type="html"><![CDATA[<p>This is a curated collection of research-driven reminders based on lessons I've learned as a technical writer and former college librarian.</p>]]></content>
-        <author>
-            <name>Carrie M. Macfarlane</name>
-            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
-        </author>
-        <category label="hello" term="hello"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ordered and Unordered Lists]]></title>
         <id>https://github.io/carriewritesdocs/blog/lists</id>
         <link href="https://github.io/carriewritesdocs/blog/lists"/>
@@ -71,13 +79,13 @@
 <ul>
 <li>Templates</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="research-questions">Research Questions<a href="https://github.io/carriewritesdocs/blog/lists#research-questions" class="hash-link" aria-label="Direct link to Research Questions" title="Direct link to Research Questions">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/lists#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h2>
 <ul>
 <li>Why should we use bulleted lists and numbered lists?</li>
 <li>Why should long lists be organized and divided into sections with headings?</li>
 <li>Why do we need white space?</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="reminders">Reminders<a href="https://github.io/carriewritesdocs/blog/lists#reminders" class="hash-link" aria-label="Direct link to Reminders" title="Direct link to Reminders">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/lists#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h2>
 <ul>
 <li>People don’t read online, they seek</li>
 <li>To guide the reader’s attention, ask: Can you break any complicated concepts out into groups of simple items? If the answer is yes, then use numbered (or, <em>ordered</em>) lists for sequential items, and use bulleted (or, <em>unordered</em>) lists for non-sequential items</li>
