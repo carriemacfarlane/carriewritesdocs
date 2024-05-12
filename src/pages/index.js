@@ -4,7 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import picOfCarrie from '/img/porch-300px.jpeg';
+import picOfCarrie from '/img/porch.jpg';
 
 import styles from './index.module.css';
 
