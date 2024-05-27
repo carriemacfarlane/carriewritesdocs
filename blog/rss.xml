@@ -4,10 +4,42 @@
         <title>Carrie Miyoshi Macfarlane Blog</title>
         <link>https://github.io/carriewritesdocs/blog</link>
         <description>Carrie Miyoshi Macfarlane Blog</description>
-        <lastBuildDate>Sun, 12 May 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Form Design]]></title>
+            <link>https://github.io/carriewritesdocs/blog/forms</link>
+            <guid>https://github.io/carriewritesdocs/blog/forms</guid>
+            <pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Somewhere in the midst of my struggle to write a help article for a very long data entry form, a lightbulb clicked on. I already knew that my article would be more concise if the form was divided into sections with labels. For example, instead of directing people to the bottom-left corner of the form, I could direct them to, say, the output section. Why not suggest dividing the form into sections?]]></description>
+            <content:encoded><![CDATA[<p>Somewhere in the midst of my struggle to write a help article for a very long data entry form, a lightbulb clicked on. I already knew that my article would be more concise if the form was divided into sections with labels. For example, instead of directing people to the <em>bottom-left corner</em> of the form, I could direct them to, say, the <em>output section</em>. Why not suggest dividing the form into sections?</p>
+<p>I decided to submit a feature request! I would propose dividing the form into labeled sections and moving a couple of fields. My colleagues agree the form is complicated. Dividing it into sections would make it easier to use. But like a good librarian (in my case, a good former librarian), I wanted to provide a rationale with citations.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/forms#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Form design</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/forms#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h3>
+<ul>
+<li>What does user research tell us about how to design online forms?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/forms#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h3>
+<ul>
+<li>group fields logically</li>
+<li>use a one-column layout</li>
+<li>place labels above fields, not to the left</li>
+<li>use action-based words on buttons</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/forms#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://designlab.com/blog/form-ui-design-best-practices/" target="_blank" rel="noopener noreferrer">A UX/UI Guide to Designing User-Friendly Forms | Designlab</a></li>
+<li><a href="https://www.nngroup.com/videos/better-forms-visual-organization/" target="_blank" rel="noopener noreferrer">Better Forms Through Visual Organization| Nielsen Norman Group</a></li>
+</ul>]]></content:encoded>
+            <category>sections</category>
+            <category>headings</category>
+            <category>forms</category>
+        </item>
         <item>
             <title><![CDATA[Trust Equation]]></title>
             <link>https://github.io/carriewritesdocs/blog/trust</link>
