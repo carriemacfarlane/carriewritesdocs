@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Publications
 
-My experience with writing, teaching, and technology sometimes comes together to make a good story!
+My experience with training, and technology sometimes comes together to make a good story!
 
 ## IDeaL
 
