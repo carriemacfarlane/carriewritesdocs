@@ -15,7 +15,7 @@ I checked our style guide and confirmed it provided no advice about how much of 
 
 * Screenshots
 
-### Questions
+### Question
 
 * How much of a screen should be captured in a screenshot?
 
