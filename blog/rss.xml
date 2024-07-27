@@ -4,10 +4,41 @@
         <title>Carrie Miyoshi Macfarlane Blog</title>
         <link>https://github.io/carriewritesdocs/blog</link>
         <description>Carrie Miyoshi Macfarlane Blog</description>
-        <lastBuildDate>Sun, 30 Jun 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Seven, Plus or Minus Two]]></title>
+            <link>https://github.io/carriewritesdocs/blog/seven-plus-or-minus</link>
+            <guid>https://github.io/carriewritesdocs/blog/seven-plus-or-minus</guid>
+            <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[When I review draft knowledgebase articles for publication, I provide feedback and explanations extracted from our style guide. My hope is that if the author understands why I’ve made a suggestion, they’ll make the change on their own next time. Sometimes, I double-check to make sure the rationale in our style guide is still valid.]]></description>
+            <content:encoded><![CDATA[<p>When I review draft knowledgebase articles for publication, I provide feedback and explanations extracted from our style guide. My hope is that if the author understands why I’ve made a suggestion, they’ll make the change on their own next time. Sometimes, I double-check to make sure the rationale in our style guide is still valid.</p>
+<p>Recently, when I double-checked a style convention that I had long thought to be true, I found a bit of controversy. I had been taught that lists with more than 7-10 steps should be divided into sections with subheadings. Because cognitive psychology research showed that people can remember about 7 chunks of information at a time, many web designers concluded that menus should contain no more than 7 items, plus or minus 2. This “Seven, Plus or Minus Two” convention made sense in technical writing, too: excessively long to-do lists are overwhelming.</p>
+<p>However, it now seems that web designers took cognitive research too far. The research was about memory, not reading. Yes, people can remember about 7 chunks of information, but they can <em>read</em> more than that!</p>
+<p>What does this discovery mean for our style guide? Understanding the finer points of this convention will help me provide informed feedback, but I’m not going to change the guide. Even refutations of the 7 plus or minus 2 rule still say that structure and hierarchy are essential. Breaking a long list into sections with subheadings remains a best practice.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/seven-plus-or-minus#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Advice about ordered and unordered lists</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/seven-plus-or-minus#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
+<ul>
+<li>How many items in a list is too many items?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/seven-plus-or-minus#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h3>
+<ul>
+<li>Lists should contain no more than 7-10 items</li>
+<li>If a list contains more than 7-10 items, divide the list into sections with headings</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/seven-plus-or-minus#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven" target="_blank" rel="noopener noreferrer">Myth #23: Choices should always be limited to 7+/-2 | UX Myths</a></li>
+<li><a href="https://www.nngroup.com/articles/chunking/" target="_blank" rel="noopener noreferrer">How Chunking Helps Content Processing | Nielsen Norman Group</a></li>
+<li><a href="https://www.britannica.com/biography/George-A-Miller#ref1200615" target="_blank" rel="noopener noreferrer">George A. Miller | American Psychologist &amp; Cognitive Scientist | Britannica</a></li>
+</ul>]]></content:encoded>
+            <category>lists</category>
+        </item>
         <item>
             <title><![CDATA[Large Screenshots]]></title>
             <link>https://github.io/carriewritesdocs/blog/large-screenshots</link>
@@ -16,7 +47,7 @@
             <description><![CDATA[I was reviewing a draft article for our knowledgebase when I realized that I needed to add advice about screenshots to our style guide. I’d nearly been lulled into complacency as I ticked off items in our pre-publication checklist. Yes, the scope statement was accurate; yes, the instructions were written as numbered steps; yes, large screenshots were annotated…]]></description>
             <content:encoded><![CDATA[<p>I was reviewing a draft article for our knowledgebase when I realized that I needed to add advice about screenshots to our style guide. I’d nearly been lulled into complacency as I ticked off items in our pre-publication checklist. Yes, the scope statement was accurate; yes, the instructions were written as numbered steps; yes, large screenshots were annotated…</p>
 <p>Wait. Those screenshots were really large. I had to scroll to get past them! They were distracting. The screenshots added value, but they needed to be smaller.</p>
-<p>I checked our style guide and confirmed it provided no advice about how much of a screen to include in a screenshot. I’d have to add advice, and I wanted to cite some research for people who wanted to learn more.</p>
+<p>I checked our style guide and confirmed it provided no advice about how much of a screen to include in a screenshot. I’d have to add advice, and I wanted to cite some research for people who were interested in learning more.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/large-screenshots#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
 <ul>
 <li>Screenshots</li>
@@ -43,9 +74,9 @@
             <link>https://github.io/carriewritesdocs/blog/forms</link>
             <guid>https://github.io/carriewritesdocs/blog/forms</guid>
             <pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Somewhere in the midst of my struggle to write a help article for a very long data entry form, a lightbulb clicked on. I already knew that my article would be more concise if the form was divided into sections with labels. For example, instead of directing people to the bottom-left corner of the form, I could direct them to, say, the output section. Why not suggest dividing the form into sections?]]></description>
-            <content:encoded><![CDATA[<p>Somewhere in the midst of my struggle to write a help article for a very long data entry form, a lightbulb clicked on. I already knew that my article would be more concise if the form was divided into sections with labels. For example, instead of directing people to the <em>bottom-left corner</em> of the form, I could direct them to, say, the <em>output section</em>. Why not suggest dividing the form into sections?</p>
-<p>I decided to submit a feature request! I would propose dividing the form into labeled sections and moving a couple of fields. My colleagues agree the form is complicated. Dividing it into sections would make it easier to use. But like a good librarian (in my case, a good former librarian), I wanted to provide a rationale with citations.</p>
+            <description><![CDATA[Somewhere in the midst of my struggle to write a help article for a very long data entry form, a lightbulb clicked on in my mind. I already knew that my article would be more concise if the form was divided into sections with labels. For example, instead of directing people to the bottom-left corner of the form, I could direct them to, say, the output section. Why not suggest dividing the form into sections?]]></description>
+            <content:encoded><![CDATA[<p>Somewhere in the midst of my struggle to write a help article for a very long data entry form, a lightbulb clicked on in my mind. I already knew that my article would be more concise if the form was divided into sections with labels. For example, instead of directing people to the <em>bottom-left corner</em> of the form, I could direct them to, say, the <em>output section</em>. Why not suggest dividing the form into sections?</p>
+<p>I decided to submit a feature request! I would propose dividing the form into labeled sections and moving a couple of fields. My colleagues agreed the form is complicated. Dividing it into sections would make it easier to use. But like a good librarian (in my case, a good former librarian), I wanted to provide a rationale with citations.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/forms#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
 <ul>
 <li>Form design</li>
@@ -92,10 +123,10 @@
             <link>https://github.io/carriewritesdocs/blog/sections</link>
             <guid>https://github.io/carriewritesdocs/blog/sections</guid>
             <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[A few weeks ago, I started working on a help article for a data entry form. The form produces reports that can be used to evaluate profitability, uncover data entry errors, send mass mailings, and more. The form has grown longer over the years, and it now contains more than 30 input fields with no section dividers and no headings. The goal of my article was to define all the fields. This was a thorny challenge for information architecture.]]></description>
-            <content:encoded><![CDATA[<p>A few weeks ago, I started working on a help article for a data entry form. The form produces reports that can be used to evaluate profitability, uncover data entry errors, send mass mailings, and more. The form has grown longer over the years, and it now contains more than 30 input fields with no section dividers and no headings. The goal of my article was to define all the fields. This was a thorny challenge for information architecture.</p>
+            <description><![CDATA[A few weeks ago, I started working on a help article for a data entry form. The form produces reports that can be used to evaluate profitability, uncover data entry errors, send mass mailings, and more. The form has grown longer over the years, and it now contains more than 30 input fields with no section dividers and no headings. The goal of my article was to define all the fields. This was a thorny information architecture challenge.]]></description>
+            <content:encoded><![CDATA[<p>A few weeks ago, I started working on a help article for a data entry form. The form produces reports that can be used to evaluate profitability, uncover data entry errors, send mass mailings, and more. The form has grown longer over the years, and it now contains more than 30 input fields with no section dividers and no headings. The goal of my article was to define all the fields. This was a thorny information architecture challenge.</p>
 <p>How would I format the article so that a reader could quickly make sense of the content? If I listed the fields one after the other with no section dividers and no headings, my list would be too long to comprehend. If I divided the list into categories, that would falsely suggest that the form is divided into categories too.</p>
-<p>As a writer, I know that separating large blocks of content into chunks makes scanning easier, and as a former educator, I know that organizing content into meaningful categories helps people learn. So I decided to break my lists into sections based on the order in which the fields appear in the form. Within each section, I would create subsections based on function.</p>
+<p>As a writer, I know that separating large blocks of content into chunks makes scanning easier, and as a former educator, I know that organizing content into meaningful categories helps people learn. So, I decided to break my lists into sections based on the order in which the fields appear in the form. Within each section, I would create subsections based on function.</p>
 <p>This is an imperfect solution, but it’s the best solution for now. (Separately, I’ll recommend a new organization scheme for the form!) I found a couple of sources to support my decisions.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/sections#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
 <ul>
