@@ -9,7 +9,7 @@ I was reviewing a draft article for our knowledgebase when I realized that I nee
 
 Wait. Those screenshots were really large. I had to scroll to get past them! They were distracting. The screenshots added value, but they needed to be smaller.
 
-I checked our style guide and confirmed it provided no advice about how much of a screen to include in a screenshot. I’d have to add advice, and I wanted to cite some research for people who wanted to learn more.
+I checked our style guide and confirmed it provided no advice about how much of a screen to include in a screenshot. I’d have to add advice, and I wanted to cite some research for people who were interested in learning more.
 
 ### What I’m Working On
 
