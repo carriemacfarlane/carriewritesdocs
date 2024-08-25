@@ -5,7 +5,7 @@ authors: [carriem]
 tags: [lists]
 ---
 
-When I review draft knowledgebase articles for publication, I provide feedback and explanations extracted from our style guide. My hope is that if the author understands why I’ve made a suggestion, they’ll make the change on their own next time. Sometimes, I double-check to make sure the rationale in our style guide is still valid.
+When I review draft knowledgebase articles for publication, I provide feedback and explanations that I extract from our style guide. My hope is that if the author understands why I’ve made a suggestion, they’ll make the change on their own next time. Sometimes, I double-check to make sure the rationale in our style guide is still valid.
 
 Recently, when I double-checked a style convention that I had long thought to be true, I found a bit of controversy. I had been taught that lists with more than 7-10 steps should be divided into sections with subheadings. Because cognitive psychology research showed that people can remember about 7 chunks of information at a time, many web designers concluded that menus should contain no more than 7 items, plus or minus 2. This “Seven, Plus or Minus Two” convention made sense in technical writing, too: excessively long to-do lists are overwhelming.
 
