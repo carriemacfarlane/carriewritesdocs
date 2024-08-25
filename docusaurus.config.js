@@ -81,7 +81,7 @@ const config = {
             position: 'left',
             label: 'Work',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: 'Research the Docs', position: 'left' },
           {
             href: 'https://github.com/carriemacfarlane/carriewritesdocs',
             label: 'GitHub',
