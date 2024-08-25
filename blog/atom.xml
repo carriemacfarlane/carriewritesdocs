@@ -2,18 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.io/carriewritesdocs/blog</id>
     <title>Carrie Miyoshi Macfarlane Blog</title>
-    <updated>2024-07-27T00:00:00.000Z</updated>
+    <updated>2024-08-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.io/carriewritesdocs/blog"/>
     <subtitle>Carrie Miyoshi Macfarlane Blog</subtitle>
     <icon>https://github.io/carriewritesdocs/img/avatar200px-transparent.png</icon>
     <entry>
+        <title type="html"><![CDATA[Examples]]></title>
+        <id>https://github.io/carriewritesdocs/blog/examples</id>
+        <link href="https://github.io/carriewritesdocs/blog/examples"/>
+        <updated>2024-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Back during my first few months as a tech writer, I was working on documentation for complicated software that’s used in an industry I knew nothing about. I felt like a blindfolded tour guide. If you’re a tech writer, you’ve probably felt like this sometimes, too! You can find your way to walls and then doors, but you can’t bring people to the rooms they want to go to. Ultimately, it was my experience as a librarian that helped me navigate.]]></summary>
+        <content type="html"><![CDATA[<p>Back during my first few months as a tech writer, I was working on documentation for complicated software that’s used in an industry I knew nothing about. I felt like a blindfolded tour guide. If you’re a tech writer, you’ve probably felt like this sometimes, too! You can find your way to walls and then doors, but you can’t bring people to the rooms they want to go to. Ultimately, it was my experience as a librarian that helped me navigate.</p>
+<p>After an interview with a subject matter expert and some experimentation, I'd learned enough to write accurate instructions. But as a former librarian who has led thousands of training sessions, I knew the instructions for the most complicated functions would be easier to understand if they were accompanied by examples. Since I wasn’t familiar with the industry, though, if I was going to provide realistic examples, I’d need to do more research.</p>
+<p>I didn’t want to disappoint my new colleagues by taking too long. And I really didn’t want to place an unnecessary burden on my subject matter expert. I wondered if I should consider the job done. At this point, the blindfold was off: I could guide readers to the essential places, I just couldn’t explain very well why they’d want to go there.</p>
+<p>Would it be worth the time it took to identify and write realistic examples? I did a little googling and confirmed what I already knew to be true: concrete examples are useful in documentation, too.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/examples#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Documentation for software that's used in an industry that was unfamiliar to me</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/examples#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h3>
+<ul>
+<li>Writing realistic examples for documentation takes a while when you don’t know the industry. Is it worth the time?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/examples#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h3>
+<ul>
+<li>Yes! Examples are essential for library training sessions, and they're essential for documentation too.</li>
+<li>In fact, it’s a good idea to provide more than one example.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/examples#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://www.learningscientists.org/learning-scientists-podcast/2018/1/3/episode-10-concrete-examples" target="_blank" rel="noopener noreferrer">Episode 10 - Concrete Examples | The Learning Scientists</a> (If you don’t have time to listen, read the show notes! They’re just as good.)</li>
+<li><a href="https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html" target="_blank" rel="noopener noreferrer">Default Behaviour Sticks (And So Do Examples) | Thinkst</a>]</li>
+</ul>]]></content>
+        <author>
+            <name>Carrie M. Macfarlane</name>
+            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
+        </author>
+        <category label="examples" term="examples"/>
+        <category label="learning" term="learning"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Seven, Plus or Minus Two]]></title>
         <id>https://github.io/carriewritesdocs/blog/seven-plus-or-minus</id>
         <link href="https://github.io/carriewritesdocs/blog/seven-plus-or-minus"/>
         <updated>2024-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When I review draft knowledgebase articles for publication, I provide feedback and explanations extracted from our style guide. My hope is that if the author understands why I’ve made a suggestion, they’ll make the change on their own next time. Sometimes, I double-check to make sure the rationale in our style guide is still valid.]]></summary>
-        <content type="html"><![CDATA[<p>When I review draft knowledgebase articles for publication, I provide feedback and explanations extracted from our style guide. My hope is that if the author understands why I’ve made a suggestion, they’ll make the change on their own next time. Sometimes, I double-check to make sure the rationale in our style guide is still valid.</p>
+        <summary type="html"><![CDATA[When I review draft knowledgebase articles for publication, I provide feedback and explanations that I extract from our style guide. My hope is that if the author understands why I’ve made a suggestion, they’ll make the change on their own next time. Sometimes, I double-check to make sure the rationale in our style guide is still valid.]]></summary>
+        <content type="html"><![CDATA[<p>When I review draft knowledgebase articles for publication, I provide feedback and explanations that I extract from our style guide. My hope is that if the author understands why I’ve made a suggestion, they’ll make the change on their own next time. Sometimes, I double-check to make sure the rationale in our style guide is still valid.</p>
 <p>Recently, when I double-checked a style convention that I had long thought to be true, I found a bit of controversy. I had been taught that lists with more than 7-10 steps should be divided into sections with subheadings. Because cognitive psychology research showed that people can remember about 7 chunks of information at a time, many web designers concluded that menus should contain no more than 7 items, plus or minus 2. This “Seven, Plus or Minus Two” convention made sense in technical writing, too: excessively long to-do lists are overwhelming.</p>
 <p>However, it now seems that web designers took cognitive research too far. The research was about memory, not reading. Yes, people can remember about 7 chunks of information, but they can <em>read</em> more than that!</p>
 <p>What does this discovery mean for our style guide? Understanding the finer points of this convention will help me provide informed feedback, but I’m not going to change the guide. Even refutations of the 7 plus or minus 2 rule still say that structure and hierarchy are essential. Breaking a long list into sections with subheadings remains a best practice.</p>
