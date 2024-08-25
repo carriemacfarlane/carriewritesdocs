@@ -74,12 +74,12 @@ const config = {
           src: 'img/avatar200px-transparent.png',
         },
         items: [
-          { to: '/about', label: 'About', position: 'left' },
+          { to: '/about', label: 'About Me', position: 'left' },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Work',
+            label: 'Work Samples',
           },
           { to: '/blog', label: 'Research the Docs', position: 'left' },
           {
