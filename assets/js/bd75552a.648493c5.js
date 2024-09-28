@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_site=self.webpackChunkportfolio_site||[]).push([[8284],{2924:e=>{e.exports=JSON.parse('{"label":"info architecture","permalink":"/carriewritesdocs/blog/tags/info-architecture","allTagsPath":"/carriewritesdocs/blog/tags","count":4,"unlisted":false}')}}]);

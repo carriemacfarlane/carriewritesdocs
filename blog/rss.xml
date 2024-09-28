@@ -4,10 +4,41 @@
         <title>Carrie Miyoshi Macfarlane Blog</title>
         <link>https://github.io/carriewritesdocs/blog</link>
         <description>Carrie Miyoshi Macfarlane Blog</description>
-        <lastBuildDate>Sun, 25 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Taxonomy]]></title>
+            <link>https://github.io/carriewritesdocs/blog/taxonomy</link>
+            <guid>https://github.io/carriewritesdocs/blog/taxonomy</guid>
+            <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[My colleagues and I were having trouble communicating with one another. People were using different names for the same user interface (UI) elements. It would be an enormous undertaking to change communication habits across an organization, but one achievable first step we could take, I figured, would be to change terminology in written documents.]]></description>
+            <content:encoded><![CDATA[<p>My colleagues and I were having trouble communicating with one another. People were using different names for the same user interface (UI) elements. It would be an enormous undertaking to change communication habits across an organization, but one achievable first step we could take, I figured, would be to change terminology in written documents.</p>
+<p>So I decided to create a visual glossary of UI elements. The glossary would make it easy for writers to consistently use a single name for any given window or form. Because some UI elements aren’t labeled, I also would need to provide instructions on how to name UI elements. If we needed to refer to an unlabeled UI element, I could assign a name to it based on the rules in the naming guide. At the core of this naming guide was a hierarchy of color-coded categories and examples. I wanted to call the hierarchy a taxonomy.</p>
+<p>But <em>was</em> it a taxonomy? I knew the term from librarianship. Librarians in my field used taxonomies to assign metadata in digital repositories. I’d seen the term occasionally in tech comm publications, but I hadn’t paid much attention to it. Now I wondered, do technical communicators use the term <em>taxonomy</em> in the same way that librarians do? It would be counterproductive (and ironic!) if I misused a term in my naming guide.</p>
+<p>How do technical communicators use the term <em>taxonomy</em>? I did a little research. I found a great article that led me to a great webinar. And a book! (See below.) I learned that in technical communication <em>and</em> librarianship, a taxonomy is a system that facilitates categorization of information. It uses tools including hierarchies and controlled vocabulary to help people derive meaning from things like names, tags, headings, and labels. I called the hierarchy in my naming guide a taxonomy.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/taxonomy#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Naming Guide for UI Elements</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/taxonomy#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h3>
+<ul>
+<li>Librarians would call a hierarchy of color-coded categories a <em>taxonomy</em>. Would technical communicators call it a taxonomy, too?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/taxonomy#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h3>
+<ul>
+<li>Yes! In tech comm <em>and</em> librarianship, a taxonomy is a system that facilitates categorization of information.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/taxonomy#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://review.content-science.com/what-is-a-taxonomy-for-content/#:~:text=A%20system%20for%20organizing%20content,(driving%20attribute%20%2B%20tag%20terminology)" target="_blank" rel="noopener noreferrer">What Is a Taxonomy for Content? | Content Science Review</a></li>
+<li><a href="https://content-science.com/publications/content-advantage/" target="_blank" rel="noopener noreferrer"><em>The Content Advantage</em> | by Colleen Jones</a></li>
+</ul>]]></content:encoded>
+            <category>communication</category>
+            <category>info architecture</category>
+            <category>UI</category>
+        </item>
         <item>
             <title><![CDATA[Examples]]></title>
             <link>https://github.io/carriewritesdocs/blog/examples</link>
@@ -36,7 +67,9 @@
 <li><a href="https://www.learningscientists.org/learning-scientists-podcast/2018/1/3/episode-10-concrete-examples" target="_blank" rel="noopener noreferrer">Episode 10 - Concrete Examples | The Learning Scientists</a> (If you don’t have time to listen, read the show notes! They’re just as good.)</li>
 <li><a href="https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html" target="_blank" rel="noopener noreferrer">Default Behaviour Sticks (And So Do Examples) | Thinkst</a>]</li>
 </ul>]]></content:encoded>
+            <category>communication</category>
             <category>examples</category>
+            <category>interpersonal</category>
             <category>learning</category>
         </item>
         <item>
@@ -68,7 +101,11 @@
 <li><a href="https://www.nngroup.com/articles/chunking/" target="_blank" rel="noopener noreferrer">How Chunking Helps Content Processing | Nielsen Norman Group</a></li>
 <li><a href="https://www.britannica.com/biography/George-A-Miller#ref1200615" target="_blank" rel="noopener noreferrer">George A. Miller | American Psychologist &amp; Cognitive Scientist | Britannica</a></li>
 </ul>]]></content:encoded>
+            <category>learning</category>
+            <category>info architecture</category>
             <category>lists</category>
+            <category>style guide</category>
+            <category>UI</category>
         </item>
         <item>
             <title><![CDATA[Large Screenshots]]></title>
@@ -131,6 +168,7 @@
             <category>sections</category>
             <category>headings</category>
             <category>forms</category>
+            <category>UI</category>
         </item>
         <item>
             <title><![CDATA[Trust Equation]]></title>
@@ -178,10 +216,11 @@
 <li><a href="https://www.learningscientists.org/blog/2023/7/6?rq=chunk" target="_blank" rel="noopener noreferrer">Sources of Cognitive Load | The Learning Scientists</a></li>
 <li><a href="https://www.nngroup.com/articles/chunking/" target="_blank" rel="noopener noreferrer">How Chunking Helps Content Processing | Nielsen Norman Group</a></li>
 </ul>]]></content:encoded>
-            <category>sections</category>
             <category>headings</category>
-            <category>online reading</category>
+            <category>info architecture</category>
             <category>learning</category>
+            <category>online reading</category>
+            <category>sections</category>
         </item>
         <item>
             <title><![CDATA[Ordered and Unordered Lists]]></title>
@@ -213,8 +252,10 @@
 <li><a href="https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/" target="_blank" rel="noopener noreferrer">F-Shaped Pattern of Reading on the Web: Misunderstood, But Still Relevant (Even on Mobile) | Nielsen Norman Group (2017)</a></li>
 <li><a href="https://www.nngroup.com/articles/blah-blah-text-keep-cut-or-kill/" target="_blank" rel="noopener noreferrer">Blah-Blah Text: Keep, Cut, or Kill? | Nielsen Norman Group (2007)</a></li>
 </ul>]]></content:encoded>
+            <category>info architecture</category>
             <category>lists</category>
             <category>online reading</category>
+            <category>style guide</category>
             <category>templates</category>
         </item>
     </channel>
