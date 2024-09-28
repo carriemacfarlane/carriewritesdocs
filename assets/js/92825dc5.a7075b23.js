@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio_site=self.webpackChunkportfolio_site||[]).push([[2367],{2733:s=>{s.exports=JSON.parse('{"label":"screenshots","permalink":"/carriewritesdocs/blog/tags/screenshots","allTagsPath":"/carriewritesdocs/blog/tags","count":1,"unlisted":false}')}}]);

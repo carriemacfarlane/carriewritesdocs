@@ -68,8 +68,6 @@
 <li><a href="https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html" target="_blank" rel="noopener noreferrer">Default Behaviour Sticks (And So Do Examples) | Thinkst</a>]</li>
 </ul>]]></content:encoded>
             <category>communication</category>
-            <category>examples</category>
-            <category>interpersonal</category>
             <category>learning</category>
         </item>
         <item>
@@ -103,7 +101,6 @@
 </ul>]]></content:encoded>
             <category>learning</category>
             <category>info architecture</category>
-            <category>lists</category>
             <category>style guide</category>
             <category>UI</category>
         </item>
@@ -135,7 +132,8 @@
 <li>Bhatti, Jared, Zachary Sarah Corleissen, Jen Lambourne, David Nunez, and Heidi Waterhouse. <em>Docs for Developers: An Engineer’s Field Guide to Technical Writing</em>. New York: Apress, 2021.</li>
 <li><a href="https://developers.google.com/style/images" target="_blank" rel="noopener noreferrer">Diagrams, figures, and other images | Google developer documentation style guide</a></li>
 </ul>]]></content:encoded>
-            <category>screenshots</category>
+            <category>style guide</category>
+            <category>UI</category>
         </item>
         <item>
             <title><![CDATA[Form Design]]></title>
@@ -165,9 +163,6 @@
 <li><a href="https://designlab.com/blog/form-ui-design-best-practices/" target="_blank" rel="noopener noreferrer">A UX/UI Guide to Designing User-Friendly Forms | Designlab</a></li>
 <li><a href="https://www.nngroup.com/videos/better-forms-visual-organization/" target="_blank" rel="noopener noreferrer">Better Forms Through Visual Organization| Nielsen Norman Group</a></li>
 </ul>]]></content:encoded>
-            <category>sections</category>
-            <category>headings</category>
-            <category>forms</category>
             <category>UI</category>
         </item>
         <item>
@@ -184,7 +179,6 @@
 <li><a href="https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation" target="_blank" rel="noopener noreferrer">Understanding The Trust Equation | Trusted Advisor.com</a></li>
 </ul>]]></content:encoded>
             <category>communication</category>
-            <category>interpersonal</category>
         </item>
         <item>
             <title><![CDATA[Organize Content Into Sections]]></title>
@@ -215,11 +209,10 @@
 <li><a href="https://www.learningscientists.org/blog/2023/7/6?rq=chunk" target="_blank" rel="noopener noreferrer">Sources of Cognitive Load | The Learning Scientists</a></li>
 <li><a href="https://www.nngroup.com/articles/chunking/" target="_blank" rel="noopener noreferrer">How Chunking Helps Content Processing | Nielsen Norman Group</a></li>
 </ul>]]></content:encoded>
-            <category>headings</category>
             <category>info architecture</category>
             <category>learning</category>
             <category>online reading</category>
-            <category>sections</category>
+            <category>UI</category>
         </item>
         <item>
             <title><![CDATA[Ordered and Unordered Lists]]></title>
@@ -252,7 +245,6 @@
 <li><a href="https://www.nngroup.com/articles/blah-blah-text-keep-cut-or-kill/" target="_blank" rel="noopener noreferrer">Blah-Blah Text: Keep, Cut, or Kill? | Nielsen Norman Group (2007)</a></li>
 </ul>]]></content:encoded>
             <category>info architecture</category>
-            <category>lists</category>
             <category>online reading</category>
             <category>style guide</category>
             <category>templates</category>

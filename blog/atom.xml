@@ -75,8 +75,6 @@
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
         </author>
         <category label="communication" term="communication"/>
-        <category label="examples" term="examples"/>
-        <category label="interpersonal" term="interpersonal"/>
         <category label="learning" term="learning"/>
     </entry>
     <entry>
@@ -114,7 +112,6 @@
         </author>
         <category label="learning" term="learning"/>
         <category label="info architecture" term="info architecture"/>
-        <category label="lists" term="lists"/>
         <category label="style guide" term="style guide"/>
         <category label="UI" term="UI"/>
     </entry>
@@ -150,7 +147,8 @@
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
         </author>
-        <category label="screenshots" term="screenshots"/>
+        <category label="style guide" term="style guide"/>
+        <category label="UI" term="UI"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Form Design]]></title>
@@ -184,9 +182,6 @@
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
         </author>
-        <category label="sections" term="sections"/>
-        <category label="headings" term="headings"/>
-        <category label="forms" term="forms"/>
         <category label="UI" term="UI"/>
     </entry>
     <entry>
@@ -207,7 +202,6 @@
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
         </author>
         <category label="communication" term="communication"/>
-        <category label="interpersonal" term="interpersonal"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Organize Content Into Sections]]></title>
@@ -242,11 +236,10 @@
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
         </author>
-        <category label="headings" term="headings"/>
         <category label="info architecture" term="info architecture"/>
         <category label="learning" term="learning"/>
         <category label="online reading" term="online reading"/>
-        <category label="sections" term="sections"/>
+        <category label="UI" term="UI"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ordered and Unordered Lists]]></title>
@@ -283,7 +276,6 @@
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
         </author>
         <category label="info architecture" term="info architecture"/>
-        <category label="lists" term="lists"/>
         <category label="online reading" term="online reading"/>
         <category label="style guide" term="style guide"/>
         <category label="templates" term="templates"/>
