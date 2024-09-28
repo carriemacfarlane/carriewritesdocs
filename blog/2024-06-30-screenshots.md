@@ -2,7 +2,7 @@
 slug: large-screenshots
 title: Large Screenshots
 authors: [carriem]
-tags: [screenshots]
+tags: [style guide, UI]
 ---
 
 I was reviewing a draft article for our knowledgebase when I realized that I needed to add advice about screenshots to our style guide. I’d nearly been lulled into complacency as I ticked off items in our pre-publication checklist. Yes, the scope statement was accurate; yes, the instructions were written as numbered steps; yes, large screenshots were annotated…
