@@ -23,8 +23,8 @@ The Zoom Host starts the meeting and manages participants.
 ## Start the Meeting
 
 1. At the top of the Zoom window, select **Meetings**.
-2. Under the **Upcoming** tab, select the meeting you want to start. Additional options will appear.
-3. Select **Start** for the DRB meeting.
+1. Under the **Upcoming** tab, select the meeting you want to start. Additional options will appear.
+1. Select **Start** for the DRB meeting.
 
 ## Change the ZA Display Name
 

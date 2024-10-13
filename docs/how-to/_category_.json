@@ -1,6 +1,8 @@
 {
   "label": "How-To",
-  "position": 2,
+  "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "I created this how-to guide for members of the Vergennes Development Review Board. Because any board member might need to run a meeting without notice, I separated the content into chunks that are easy to find and scan. The original guide was a printed PDF. I recreated it here using the Docusaurus tutorial layout."}}
+    "description": "The Vergennes Development Review Board (DRB) makes decisions about land use that can have a profound effect on a person’s property and well-being. DRB meetings must comply with Vermont’s Open Meeting Law, which requires public access to meetings and records. When DRB meetings suddenly went online due to Covid, I became our tech expert. I ran the online components of the meetings, and I documented the procedure. We needed to follow the same procedure every time, with no mistakes, so the documentation had to be clear and precise. Because other board members might be called on to follow the procedure, the documentation also had to be easy for anyone to understand. All of these requirements made for a rather long how-to document! I divided the document into chunks to make it easier to scan. I tested it with a colleague and then shared it with the group. The original how-to was a printed PDF. I recreated it here using the Docusaurus tutorial layout."
+  }
+}
