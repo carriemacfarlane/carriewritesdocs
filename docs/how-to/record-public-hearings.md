@@ -6,7 +6,7 @@ sidebar_position: 6
 
 Public hearings must be recorded and saved. The Zoom Host records the meetings and shares the recordings with the ZA. The ZA then saves the recordings to a City-owned computer.
 
-## Record 
+## Record
 
 1. Select **Record** before the Chair reads the warning for a public hearing.
 
@@ -26,7 +26,7 @@ Public hearings must be recorded and saved. The Zoom Host records the meetings a
 
 ## Transfer to Google Drive
 
-1. After the hearing, log in to the ZA's Zoom account and download the recordings. 
+1. After the hearing, log in to the ZA's Zoom account and download the recordings.
     :::note NOTE:
     Zoom sometimes requires a passcode. The passcode is sent to the Zoning Administrator’s email account, so schedule a time to log in when the Zoning Administrator is available to provide the code via text message or phone.
     :::
@@ -42,7 +42,7 @@ Public hearings must be recorded and saved. The Zoom Host records the meetings a
 
 1. The Zoning Administrator will download the recordings to a City-owned computer for permanent storage and tell the Zoom Host when all other copies of the recordings can be deleted.
 
-## Delete from Zoom and Google Drive 
+## Delete from Zoom and Google Drive
 
 1. Delete the recordings from the personal Google Drive account. There is a limit on free storage capacity.
     :::note NOTE:
