@@ -13,7 +13,7 @@ We needed to set clear expectations for what we would and wouldn’t correct dur
 
 My colleague asked out of curiosity how I’d developed the checklist. I used many sources, but the backbone of the checklist came directly from a post-it I had affixed to one of the pages of Krista Van Laan’s book. Van Laan said that the best documentation is accurate, complete, error-free, and usable. I had recorded those priorities on a post-it, and I adopted them as the 4 main goals of the checklist.
 
-*The Insider's Guide to Technical Writing* made me feel so excited to become a tech writer! It’s fun to reminisce about that time of exploration, and it’s rewarding to see the results of my research.
+*The Insider's Guide to Technical Writing* made me feel so excited to become a tech writer! And now it's helped me create a checklist that an experienced colleague is willing to adopt. It’s fun to reminisce about that time of exploration, and it’s rewarding to see the results of my research.
 
 ### What I’m Working On
 
