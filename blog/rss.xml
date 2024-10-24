@@ -4,10 +4,39 @@
         <title>Carrie Miyoshi Macfarlane Blog</title>
         <link>https://github.io/carriewritesdocs/blog</link>
         <description>Carrie Miyoshi Macfarlane Blog</description>
-        <lastBuildDate>Sat, 28 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Why I Love Research]]></title>
+            <link>https://github.io/carriewritesdocs/blog/whyresearch</link>
+            <guid>https://github.io/carriewritesdocs/blog/whyresearch</guid>
+            <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I’ve come a long way! One of the first things I did when I became interested in technical writing was research. I found a great book, The Insider’s Guide to Technical Writing by Krista Van Laan, and I read it every day during my commute to the library. I filled it with bright green post-it notes to remind me of key points when I got my first job. Recently, one of those post-it notes helped me strengthen a relationship with a valued colleague.]]></description>
+            <content:encoded><![CDATA[<p>I’ve come a long way! One of the first things I did when I became interested in technical writing was research. I found a great book, <em>The Insider’s Guide to Technical Writing</em> by Krista Van Laan, and I read it every day during my commute to the library. I filled it with bright green post-it notes to remind me of key points when I got my first job. Recently, one of those post-it notes helped me strengthen a relationship with a valued colleague.</p>
+<p>Most of my current employer's documentation was written by a colleague who has been with the company for more than a decade. We meet from time-to-time, but we work in different collections. Recently, we’ve started to review one another’s work.</p>
+<p>We needed to set clear expectations for what we would and wouldn’t correct during review, so I proposed that we adopt a pre-publication checklist. I had created a checklist for the collection that I work in, so I suggested we use that as a foundation. I asked my colleague to take a look and suggest any changes. He said he liked the checklist quite a bit! It conformed to his style conventions and met his needs.</p>
+<p>My colleague asked out of curiosity how I’d developed the checklist. I used many sources, but the backbone of the checklist came directly from a post-it I had affixed to one of the pages of Krista Van Laan’s book. Van Laan said that the best documentation is accurate, complete, error-free, and usable. I had recorded those priorities on a post-it, and I adopted them as the 4 main goals of the checklist.</p>
+<p><em>The Insider's Guide to Technical Writing</em> made me feel so excited to become a tech writer! It’s fun to reminisce about that time of exploration, and it’s rewarding to see the results of my research.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/whyresearch#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Pre-publication checklist</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/whyresearch#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
+<ul>
+<li>My colleague asked how I developed the checklist</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/whyresearch#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h3>
+<ul>
+<li>I used many sources, but the foundation of the checklist is <em>The Insider's Guide to Technical Writing</em></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/whyresearch#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://bookshop.org/p/books/the-insider-s-guide-to-technical-writing-krista-van-laan/18378904?ean=9781937434786" target="_blank" rel="noopener noreferrer"><em>The Insider's Guide to Technical Writing</em> | by Krista Van Laan</a></li>
+</ul>]]></content:encoded>
+            <category>workflow</category>
+        </item>
         <item>
             <title><![CDATA[Taxonomy]]></title>
             <link>https://github.io/carriewritesdocs/blog/taxonomy</link>
