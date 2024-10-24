@@ -23,7 +23,7 @@ My colleague asked out of curiosity how I’d developed the checklist. I used ma
 
 * My colleague asked how I developed the checklist
 
-### Answers
+### Answer
 
 * I used many sources, but the foundation of the checklist is *The Insider's Guide to Technical Writing*
 
