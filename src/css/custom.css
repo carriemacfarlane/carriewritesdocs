@@ -65,6 +65,10 @@ ol {
   margin-left: 32px;
 }
 
+ul {
+  margin-left: 14px;
+}
+
 /* styles below apply to PAGES and BLOG folder */
 
 .main-wrapper h1 {
