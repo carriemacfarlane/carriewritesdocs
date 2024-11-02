@@ -2,10 +2,10 @@
 slug: whyresearch
 title: Why I Love Research
 authors: [carriem]
-tags: [workflow]
+tags: [workflow, style guide]
 ---
 
-I’ve come a long way! One of the first things I did when I became interested in technical writing was research. I found a great book, *The Insider’s Guide to Technical Writing* by Krista Van Laan, and I read it every day during my commute to the library. I filled it with bright green post-it notes to remind me of key points when I got my first job. Recently, one of those post-it notes helped me strengthen a relationship with a valued colleague.
+I’ve come a long way! One of the first things I did when I became interested in technical writing was research the field. I found a great book, *The Insider’s Guide to Technical Writing* by Krista Van Laan, and I read it every day during my commute to the library. I filled it with bright green post-it notes to remind me of key points when I got my first job. Recently, one of those post-it notes helped me strengthen a relationship with a valued colleague.
 
 Most of my current employer's documentation was written by a colleague who has been with the company for more than a decade. We meet from time-to-time, but we work in different collections. Recently, we’ve started to review one another’s work.
 
