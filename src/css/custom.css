@@ -62,11 +62,11 @@
 
 ol {
   list-style-type: decimal;
-  margin-left: 32px;
+  margin-left: 2rem;
 }
 
 ul {
-  margin-left: 14px;
+  margin-left: 1rem;
 }
 
 /* styles below apply to PAGES and BLOG folder */
