@@ -60,6 +60,11 @@
   font-size: 16px;
 }
 
+ol {
+  list-style-type: decimal;
+  margin-left: 32px;
+}
+
 /* styles below apply to PAGES and BLOG folder */
 
 .main-wrapper h1 {
