@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_site=self.webpackChunkportfolio_site||[]).push([[8777],{198:e=>{e.exports=JSON.parse('{"label":"content management","permalink":"/carriewritesdocs/blog/tags/content-management","allTagsPath":"/carriewritesdocs/blog/tags","count":1,"unlisted":false}')}}]);

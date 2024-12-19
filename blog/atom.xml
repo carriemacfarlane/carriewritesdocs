@@ -2,11 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.io/carriewritesdocs/blog</id>
     <title>Carrie Miyoshi Macfarlane Blog</title>
-    <updated>2024-11-23T00:00:00.000Z</updated>
+    <updated>2024-12-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.io/carriewritesdocs/blog"/>
     <subtitle>Carrie Miyoshi Macfarlane Blog</subtitle>
     <icon>https://github.io/carriewritesdocs/img/avatar200px-transparent.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Review Old Content]]></title>
+        <id>https://github.io/carriewritesdocs/blog/review-old-content</id>
+        <link href="https://github.io/carriewritesdocs/blog/review-old-content"/>
+        <updated>2024-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[According to Nielsen Norman’s Content Strategy 101, content management policies should define when and how older content is reviewed for quality. This principle reminds me of an issue that I grappled with when I was developing a content management policy for our internal knowledgebase. Our publication standards had evolved, and some of our older content wasn’t as readable as we wanted it to be. But it’s difficult to justify setting aside big blocks of time to review all old content at once. And our analytics aren’t robust enough to reveal the articles that are most in need of attention.]]></summary>
+        <content type="html"><![CDATA[<p>According to Nielsen Norman’s <a href="https://www.nngroup.com/articles/content-strategy/" target="_blank" rel="noopener noreferrer">Content Strategy 101</a>, content management policies should define when and how older content is reviewed for quality. This principle reminds me of an issue that I grappled with when I was developing a content management policy for our internal knowledgebase. Our publication standards had evolved, and some of our older content wasn’t as readable as we wanted it to be. But it’s difficult to justify setting aside big blocks of time to review all old content at once. And our analytics aren’t robust enough to reveal the articles that are most in need of attention.</p>
+<p>My solution was to let our users guide our attention. Our content management policy tells us to review all articles against a current pre-publication checklist when someone asks us to update them. I call this strategy “pragmatic content management,” and there are two reasons why I love it. First, it helps me feel confident that reviewing an article is worth my time: if someone has bothered to report a broken link or an outdated screenshot, I know they care about the article! And second, it prompts me to chip away at old content every few weeks instead of waiting until I have a big block of time (aka never!).</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/review-old-content#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Content management policy</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/review-old-content#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
+<ul>
+<li>When and how to review older articles for quality</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/review-old-content#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h3>
+<ul>
+<li>When someone asks us to update an article, I review it against a current pre-publication checklist</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/review-old-content#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://www.nngroup.com/articles/content-strategy/" target="_blank" rel="noopener noreferrer">Content Strategy 101 | Nielsen Norman Group</a></li>
+</ul>]]></content>
+        <author>
+            <name>Carrie M. Macfarlane</name>
+            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
+        </author>
+        <category label="workflow" term="workflow"/>
+        <category label="style guide" term="style guide"/>
+        <category label="content management" term="content management"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flowchart]]></title>
         <id>https://github.io/carriewritesdocs/blog/flowchart</id>
@@ -23,7 +55,7 @@
 <ul>
 <li>Knowledgebase publication workflow</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/flowchart#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/flowchart#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
 <ul>
 <li>How to design a flowchart</li>
 </ul>
@@ -35,7 +67,7 @@
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/flowchart#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
 <ul>
-<li><a href="https://venngage.com/blog/flowchart-symbols/" target="_blank" rel="noopener noreferrer">Flowchart Symbols and Meaning: A Complete Guide (2024) - Venngage</a></li>
+<li><a href="https://venngage.com/blog/flowchart-symbols/" target="_blank" rel="noopener noreferrer">Flowchart Symbols and Meaning: A Complete Guide (2024) | Venngage</a></li>
 <li><a href="https://www.gliffy.com/blog/guide-to-flowchart-symbols" target="_blank" rel="noopener noreferrer">Guide to Flowchart Symbols, Basic to Advanced | Gliffy by Perforce</a></li>
 <li><a href="https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained" target="_blank" rel="noopener noreferrer">Flowchart Symbols and Notation | Lucidchart</a></li>
 </ul>]]></content>
@@ -93,7 +125,7 @@
 <ul>
 <li>Naming Guide for UI Elements</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/taxonomy#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/taxonomy#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
 <ul>
 <li>Librarians would call a hierarchy of color-coded categories a <em>taxonomy</em>. Would technical communicators call it a taxonomy, too?</li>
 </ul>
@@ -128,7 +160,7 @@
 <ul>
 <li>Documentation for software that's used in an industry that was unfamiliar to me</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/examples#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/examples#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
 <ul>
 <li>Writing realistic examples for documentation takes a while when you don’t know the industry. Is it worth the time?</li>
 </ul>
@@ -234,7 +266,7 @@
 <ul>
 <li>Form design</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/forms#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/forms#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
 <ul>
 <li>What does user research tell us about how to design online forms?</li>
 </ul>
