@@ -21,7 +21,7 @@ I presented the new workflow to the team, and they liked it! They asked question
 
 * Knowledgebase publication workflow
 
-### Questions
+### Question
 
 * How to design a flowchart
 
@@ -33,6 +33,6 @@ I presented the new workflow to the team, and they liked it! They asked question
 
 ### Citations
 
-* [Flowchart Symbols and Meaning: A Complete Guide (2024) - Venngage](https://venngage.com/blog/flowchart-symbols/)
+* [Flowchart Symbols and Meaning: A Complete Guide (2024) | Venngage](https://venngage.com/blog/flowchart-symbols/)
 * [Guide to Flowchart Symbols, Basic to Advanced | Gliffy by Perforce](https://www.gliffy.com/blog/guide-to-flowchart-symbols)
 * [Flowchart Symbols and Notation | Lucidchart](https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained)
