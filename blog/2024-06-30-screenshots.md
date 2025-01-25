@@ -29,3 +29,7 @@ I checked our style guide and confirmed it provided no advice about how much of 
 
 * Bhatti, Jared, Zachary Sarah Corleissen, Jen Lambourne, David Nunez, and Heidi Waterhouse. *Docs for Developers: An Engineer’s Field Guide to Technical Writing*. New York: Apress, 2021.
 * [Diagrams, figures, and other images | Google developer documentation style guide](https://developers.google.com/style/images)
+
+___
+
+*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.*

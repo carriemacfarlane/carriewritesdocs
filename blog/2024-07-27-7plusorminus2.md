@@ -31,3 +31,7 @@ What does this discovery mean for our style guide? Understanding the finer point
 * [Myth #23: Choices should always be limited to 7+/-2 | UX Myths](https://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven)
 * [How Chunking Helps Content Processing | Nielsen Norman Group](https://www.nngroup.com/articles/chunking/)
 * [George A. Miller | American Psychologist & Cognitive Scientist | Britannica](https://www.britannica.com/biography/George-A-Miller#ref1200615)
+
+___
+
+*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.*

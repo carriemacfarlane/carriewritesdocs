@@ -36,3 +36,7 @@ I presented the new workflow to the team, and they liked it! They asked question
 * [Flowchart Symbols and Meaning: A Complete Guide (2024) | Venngage](https://venngage.com/blog/flowchart-symbols/)
 * [Guide to Flowchart Symbols, Basic to Advanced | Gliffy by Perforce](https://www.gliffy.com/blog/guide-to-flowchart-symbols)
 * [Flowchart Symbols and Notation | Lucidchart](https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained)
+
+___
+
+*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.*

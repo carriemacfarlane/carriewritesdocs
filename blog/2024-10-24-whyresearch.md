@@ -30,3 +30,7 @@ My colleague asked out of curiosity how I’d developed the checklist. I used ma
 ### Citations
 
 * [*The Insider's Guide to Technical Writing* | by Krista Van Laan](https://bookshop.org/p/books/the-insider-s-guide-to-technical-writing-krista-van-laan/18378904?ean=9781937434786)
+
+___
+
+*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.*
