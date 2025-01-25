@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_site=self.webpackChunkportfolio_site||[]).push([[5723],{8221:s=>{s.exports=JSON.parse('{"label":"communication","permalink":"/carriewritesdocs/blog/tags/communication","allTagsPath":"/carriewritesdocs/blog/tags","count":4,"unlisted":false}')}}]);

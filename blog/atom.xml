@@ -2,11 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.io/carriewritesdocs/blog</id>
     <title>Carrie Miyoshi Macfarlane Blog</title>
-    <updated>2024-12-19T00:00:00.000Z</updated>
+    <updated>2025-01-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.io/carriewritesdocs/blog"/>
     <subtitle>Carrie Miyoshi Macfarlane Blog</subtitle>
     <icon>https://github.io/carriewritesdocs/img/avatar200px-transparent.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Unified Terminology]]></title>
+        <id>https://github.io/carriewritesdocs/blog/unified-terminology</id>
+        <link href="https://github.io/carriewritesdocs/blog/unified-terminology"/>
+        <updated>2025-01-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A few years ago, during my new employee orientation, a couple of teammates pulled me aside to warn me about the word customer. “It won’t always mean what you think!” one of them suggested. “I was confused by it for months!” the other laughed. For a long time, the word customer had been used for both clients and clients of clients. Miscommunication is inevitable when people apply different meanings to the same word, and my colleagues wanted to save me from making mistakes.]]></summary>
+        <content type="html"><![CDATA[<p>A few years ago, during my new employee orientation, a couple of teammates pulled me aside to warn me about the word <em>customer</em>. “It won’t always mean what you think!” one of them suggested. “I was confused by it for <em>months</em>!” the other laughed. For a long time, the word <em>customer</em> had been used for both clients and clients of clients. Miscommunication is inevitable when people apply different meanings to the same word, and my colleagues wanted to save me from making mistakes.</p>
+<p>Recently, I heard about a unified terminology initiative at a company called Genetec that reminded me of what my two helpful colleagues had said. What prompted the initiative? Different software systems were applying different meanings to the same words, and one of the words was <em>customer</em>. Kelly Lawetz, Director of Unified Content at Genetec, explained that terminology conflicts were preventing the company from merging systems data, and top-level executives recognized that the problem needed to be addressed.</p>
+<p>Terminology conflicts were scattered throughout my company, too. Employees in different areas used different definitions, spelling, and capitalization for the same industry terms, departments, and features. We all recognized this was a problem, and I felt I might be in a position to address it. I had been hired to write effective documentation, and my ability to succeed would be limited if my words were interpreted differently by different readers.</p>
+<p>My first step was to propose a glossary for our internal Knowledgebase. I suggested that in the future, people might like it so much that we’d be able to expand its scope. I’m pragmatic, so taking an incremental approach to change appeals to me. But I’ve sometimes wondered if my pragmatism is actually complacency! Based on Kelly’s success story, it’s not. “Start small,” Kelly suggested. “Manage and build what you control.” If you demonstrate value quickly, people will willingly join your initiative.</p>
+<p>And that’s exactly what happened with our glossary. People embraced it! First, they began requesting new entries. Then, they added it to the curriculum of new employee orientation. Later, it became a go-to resource for external marketing. Its usage statistics continued to tick upward, and now it regularly ranks in the top five of several hundred pages. Last month, we changed its title. The Knowledgebase glossary is the company glossary!</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/unified-terminology#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Glossary of company terms</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/unified-terminology#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
+<ul>
+<li>How to get employees to use the same terminology, spelling, and capitalization in company communications</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/unified-terminology#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h3>
+<ul>
+<li>Start small and show value quickly by choosing an area of terminology that you control</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/unified-terminology#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=7WPEoJyK3DM" target="_blank" rel="noopener noreferrer">Streamlining Operations with Unified Terminology with Kelly Lawetz | TSW Podcast (Ep. 30)</a></li>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content>
+        <author>
+            <name>Carrie M. Macfarlane</name>
+            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
+        </author>
+        <category label="communication" term="communication"/>
+        <category label="style guide" term="style guide"/>
+        <category label="UI/UX" term="UI/UX"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Review Old Content]]></title>
         <id>https://github.io/carriewritesdocs/blog/review-old-content</id>
@@ -72,7 +109,9 @@
 <li><a href="https://venngage.com/blog/flowchart-symbols/" target="_blank" rel="noopener noreferrer">Flowchart Symbols and Meaning: A Complete Guide (2024) | Venngage</a></li>
 <li><a href="https://www.gliffy.com/blog/guide-to-flowchart-symbols" target="_blank" rel="noopener noreferrer">Guide to Flowchart Symbols, Basic to Advanced | Gliffy by Perforce</a></li>
 <li><a href="https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained" target="_blank" rel="noopener noreferrer">Flowchart Symbols and Notation | Lucidchart</a></li>
-</ul>]]></content>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
@@ -105,7 +144,9 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/whyresearch#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
 <ul>
 <li><a href="https://bookshop.org/p/books/the-insider-s-guide-to-technical-writing-krista-van-laan/18378904?ean=9781937434786" target="_blank" rel="noopener noreferrer"><em>The Insider's Guide to Technical Writing</em> | by Krista Van Laan</a></li>
-</ul>]]></content>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
@@ -139,7 +180,9 @@
 <ul>
 <li><a href="https://review.content-science.com/what-is-a-taxonomy-for-content/#:~:text=A%20system%20for%20organizing%20content,(driving%20attribute%20%2B%20tag%20terminology)" target="_blank" rel="noopener noreferrer">What Is a Taxonomy for Content? | Content Science Review</a></li>
 <li><a href="https://content-science.com/publications/content-advantage/" target="_blank" rel="noopener noreferrer"><em>The Content Advantage</em> | by Colleen Jones</a></li>
-</ul>]]></content>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
@@ -175,7 +218,9 @@
 <ul>
 <li><a href="https://www.learningscientists.org/learning-scientists-podcast/2018/1/3/episode-10-concrete-examples" target="_blank" rel="noopener noreferrer">Episode 10 - Concrete Examples | The Learning Scientists</a> (If you don’t have time to listen, read the show notes! They’re just as good.)</li>
 <li><a href="https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html" target="_blank" rel="noopener noreferrer">Default Behaviour Sticks (And So Do Examples) | Thinkst</a>]</li>
-</ul>]]></content>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
@@ -211,7 +256,9 @@
 <li><a href="https://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven" target="_blank" rel="noopener noreferrer">Myth #23: Choices should always be limited to 7+/-2 | UX Myths</a></li>
 <li><a href="https://www.nngroup.com/articles/chunking/" target="_blank" rel="noopener noreferrer">How Chunking Helps Content Processing | Nielsen Norman Group</a></li>
 <li><a href="https://www.britannica.com/biography/George-A-Miller#ref1200615" target="_blank" rel="noopener noreferrer">George A. Miller | American Psychologist &amp; Cognitive Scientist | Britannica</a></li>
-</ul>]]></content>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
@@ -248,7 +295,9 @@
 <ul>
 <li>Bhatti, Jared, Zachary Sarah Corleissen, Jen Lambourne, David Nunez, and Heidi Waterhouse. <em>Docs for Developers: An Engineer’s Field Guide to Technical Writing</em>. New York: Apress, 2021.</li>
 <li><a href="https://developers.google.com/style/images" target="_blank" rel="noopener noreferrer">Diagrams, figures, and other images | Google developer documentation style guide</a></li>
-</ul>]]></content>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
@@ -283,7 +332,9 @@
 <ul>
 <li><a href="https://designlab.com/blog/form-ui-design-best-practices/" target="_blank" rel="noopener noreferrer">A UX/UI Guide to Designing User-Friendly Forms | Designlab</a></li>
 <li><a href="https://www.nngroup.com/videos/better-forms-visual-organization/" target="_blank" rel="noopener noreferrer">Better Forms Through Visual Organization| Nielsen Norman Group</a></li>
-</ul>]]></content>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
@@ -302,7 +353,9 @@
 <ul>
 <li><a href="https://www.contentstrategy.com/episodes/episode-42-chelsea-larsson-zendesk-tactics-to-advocate-for-content-design" target="_blank" rel="noopener noreferrer">Ep. 42: Chelsea Larsson, Zendesk | The Content Strategy Podcast</a></li>
 <li><a href="https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation" target="_blank" rel="noopener noreferrer">Understanding The Trust Equation | Trusted Advisor.com</a></li>
-</ul>]]></content>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
@@ -337,7 +390,9 @@
 <ul>
 <li><a href="https://www.learningscientists.org/blog/2023/7/6?rq=chunk" target="_blank" rel="noopener noreferrer">Sources of Cognitive Load | The Learning Scientists</a></li>
 <li><a href="https://www.nngroup.com/articles/chunking/" target="_blank" rel="noopener noreferrer">How Chunking Helps Content Processing | Nielsen Norman Group</a></li>
-</ul>]]></content>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
