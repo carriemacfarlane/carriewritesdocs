@@ -12,7 +12,7 @@ Terminology conflicts were scattered throughout my company, too. Employees in di
 
 My first step was to propose a glossary for our internal knowledgebase. I suggested that in the future, people might like it so much that we’d be able to expand its scope. I’m pragmatic, so taking an incremental approach to change appeals to me. But I’ve sometimes wondered if my pragmatism is actually complacency! Based on Kelly’s success story, it’s not. “Start small,” Kelly suggested. “Manage and build what you control.” If you demonstrate value quickly, people will willingly join your initiative.
 
-And that’s exactly what happened with our glossary. People embraced it! First, they began requesting new entries. Then, they added it to the curriculum of new employee orientation. Later, it became a go-to resource for external marketing. Its usage statistics continued to tick upward, and now it regularly ranks in the top five of several hundred pages. Last month, we changed its title. The knowledgebase glossary is the company glossary!
+And that’s exactly what happened with our glossary. People embraced it! First, they began requesting new entries. Then, they added it to the curriculum of new employee orientation. Later, it became a go-to resource for external marketing. Its usage statistics continued to tick upward, and now it regularly ranks in the top five of several hundred pages. Last month, we changed its title. The knowledgebase glossary is now the company glossary!
 
 ### What I’m Working On
 
