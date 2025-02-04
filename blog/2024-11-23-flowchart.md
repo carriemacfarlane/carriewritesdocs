@@ -23,7 +23,7 @@ I presented the new workflow to the team, and they liked it! They asked question
 
 ### Question
 
-* How to design a flowchart
+* How should I design a flowchart?
 
 ### Answers
 

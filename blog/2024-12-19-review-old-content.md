@@ -14,7 +14,7 @@ My solution was to let our users guide our attention. Our content management pol
 
 ### Question
 
-* When and how to review older articles for quality
+* When and how should we review older articles for quality?
 
 ### Answers
 

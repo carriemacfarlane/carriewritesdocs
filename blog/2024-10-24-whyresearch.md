@@ -21,7 +21,7 @@ My colleague asked out of curiosity how I’d developed the checklist. I used ma
 
 ### Question
 
-* My colleague asked how I developed the checklist
+* How did I develop a checklist?
 
 ### Answer
 

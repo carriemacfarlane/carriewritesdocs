@@ -20,7 +20,7 @@ And that’s exactly what happened with our glossary. People embraced it! First,
 
 ### Question
 
-* How can we get employees to use the same terminology, spelling, and capitalization in company communications
+* How can we get employees to use the same terminology, spelling, and capitalization in company communications?
 
 ### Answers
 
