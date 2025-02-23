@@ -4,10 +4,42 @@
         <title>Carrie Miyoshi Macfarlane Blog</title>
         <link>https://github.io/carriewritesdocs/blog</link>
         <description>Carrie Miyoshi Macfarlane Blog</description>
-        <lastBuildDate>Sat, 25 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Artificial Intelligence]]></title>
+            <link>https://github.io/carriewritesdocs/blog/ai</link>
+            <guid>https://github.io/carriewritesdocs/blog/ai</guid>
+            <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[With so many people talking about artificial intelligence, I figured I might as well ask: Am I using AI like other technical writers? Here are 2 stories that tell me I am.]]></description>
+            <content:encoded><![CDATA[<p>With so many people talking about artificial intelligence, I figured I might as well ask: Am I using AI like other technical writers? Here are 2 stories that tell me I am.</p>
+<p>In <a href="https://passo.uno/ai-tech-writer-examples/" target="_blank" rel="noopener noreferrer">How I'm Using AI as a Technical Writer</a>, Fabrizio Ferri Benedetti says he uses AI for tedious tasks, and to provide support when he’s working outside his areas of expertise. Like Fabrizio, I use AI to do tedious work, and I’ve turned to AI for support! For example, when I needed to convert several pages of bulleted text to indented text, I fed the article to ChatGPT. And, since I lack subject expertise in accounting, I’ve asked Claude to check my explanations of things like general ledgers and assets as I build a user guide for new accounting software. I also called on ChatGPT when I needed a cheeky name for my fantasy football team! Talking trash is definitely not one of my strengths.</p>
+<p>AI is helping me do my job, but I know it comes with a cost. I worry about decreased creative output, increased energy consumption, and a potential lack of interesting careers for younger people. So I was gratified to hear Mignon Fogarty’s podcast about AI. In <a href="https://youtu.be/r6_nLTHZ1r4?si=jlmt9dC6dqmmjuWt" target="_blank" rel="noopener noreferrer">Struggling With AI: Job Loss, Energy Use, and More</a>, Mignon discusses these concerns with Christopher Penn. We don't have answers, but at least we’re  keeping tabs on some of the risks.</p>
+<p>So yes, I’m using AI like other writers! But of course I still have more to learn. Along comes Steve Arrants, another tech writer I respect. He posted to LinkedIn that he’s experimenting with NotebookLM. So that’s now on my to-do list!</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/ai#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Using artificial intelligence as a technical writing tool</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/ai#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
+<ul>
+<li>Am I using AI like other tech writers?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/ai#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h3>
+<ul>
+<li>Yes, I’m using it for tedious tasks and for support when I’m working outside my areas of expertise.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/ai#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://passo.uno/ai-tech-writer-examples/" target="_blank" rel="noopener noreferrer">How I'm using AI as a technical writer | passo.uno</a></li>
+<li><a href="https://youtu.be/r6_nLTHZ1r4?si=jlmt9dC6dqmmjuWt" target="_blank" rel="noopener noreferrer">Struggling with AI: Job loss, energy use, and more | Grammar Girl</a></li>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
+            <category>AI</category>
+            <category>workflow</category>
+        </item>
         <item>
             <title><![CDATA[Unified Terminology]]></title>
             <link>https://github.io/carriewritesdocs/blog/unified-terminology</link>
@@ -36,7 +68,7 @@
 <li><a href="https://www.youtube.com/watch?v=7WPEoJyK3DM" target="_blank" rel="noopener noreferrer">Streamlining Operations with Unified Terminology with Kelly Lawetz | TSW Podcast (Ep. 30)</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content:encoded>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
             <category>communication</category>
             <category>style guide</category>
             <category>UI/UX</category>
@@ -66,7 +98,7 @@
 <li><a href="https://www.nngroup.com/articles/content-strategy/" target="_blank" rel="noopener noreferrer">Content Strategy 101 | Nielsen Norman Group</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content:encoded>
+<p><em>When I was a librarian, I told students to do question-based research and cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
             <category>workflow</category>
             <category>style guide</category>
             <category>content management</category>
@@ -104,7 +136,7 @@
 <li><a href="https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained" target="_blank" rel="noopener noreferrer">Flowchart Symbols and Notation | Lucidchart</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content:encoded>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
             <category>workflow</category>
         </item>
         <item>
@@ -135,7 +167,7 @@
 <li><a href="https://bookshop.org/p/books/the-insider-s-guide-to-technical-writing-krista-van-laan/18378904?ean=9781937434786" target="_blank" rel="noopener noreferrer"><em>The Insider's Guide to Technical Writing</em> | by Krista Van Laan</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content:encoded>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
             <category>workflow</category>
             <category>style guide</category>
         </item>
@@ -167,7 +199,7 @@
 <li><a href="https://content-science.com/publications/content-advantage/" target="_blank" rel="noopener noreferrer"><em>The Content Advantage</em> | by Colleen Jones</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content:encoded>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
             <category>communication</category>
             <category>info architecture</category>
             <category>UI/UX</category>
@@ -201,7 +233,7 @@
 <li><a href="https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html" target="_blank" rel="noopener noreferrer">Default Behaviour Sticks (And So Do Examples) | Thinkst</a>]</li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content:encoded>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
             <category>communication</category>
             <category>learning</category>
         </item>
@@ -235,7 +267,7 @@
 <li><a href="https://www.britannica.com/biography/George-A-Miller#ref1200615" target="_blank" rel="noopener noreferrer">George A. Miller | American Psychologist &amp; Cognitive Scientist | Britannica</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content:encoded>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
             <category>learning</category>
             <category>info architecture</category>
             <category>style guide</category>
@@ -270,7 +302,7 @@
 <li><a href="https://developers.google.com/style/images" target="_blank" rel="noopener noreferrer">Diagrams, figures, and other images | Google developer documentation style guide</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content:encoded>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
             <category>style guide</category>
             <category>UI/UX</category>
         </item>
@@ -303,7 +335,7 @@
 <li><a href="https://www.nngroup.com/videos/better-forms-visual-organization/" target="_blank" rel="noopener noreferrer">Better Forms Through Visual Organization| Nielsen Norman Group</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content:encoded>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
             <category>UI/UX</category>
         </item>
         <item>
@@ -320,7 +352,7 @@
 <li><a href="https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation" target="_blank" rel="noopener noreferrer">Understanding The Trust Equation | Trusted Advisor.com</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content:encoded>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
             <category>communication</category>
         </item>
         <item>
@@ -353,7 +385,7 @@
 <li><a href="https://www.nngroup.com/articles/chunking/" target="_blank" rel="noopener noreferrer">How Chunking Helps Content Processing | Nielsen Norman Group</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.</em></p>]]></content:encoded>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content:encoded>
             <category>info architecture</category>
             <category>learning</category>
             <category>online reading</category>
