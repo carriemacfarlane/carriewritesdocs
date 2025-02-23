@@ -26,4 +26,4 @@ My solution was to let our users guide our attention. Our content management pol
 
 ___
 
-*When I was a librarian, I told students to do question-based research and cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.*
+*When I was a librarian, I told students to do question-based research and cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.*

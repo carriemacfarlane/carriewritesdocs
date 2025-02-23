@@ -39,4 +39,4 @@ I presented the new workflow to the team, and they liked it! They asked question
 
 ___
 
-*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.*
+*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.*

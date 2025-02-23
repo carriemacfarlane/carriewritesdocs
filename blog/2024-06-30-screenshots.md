@@ -32,4 +32,4 @@ I checked our style guide and confirmed it provided no advice about how much of 
 
 ___
 
-*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.*
+*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.*

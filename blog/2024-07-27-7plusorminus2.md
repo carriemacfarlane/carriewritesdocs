@@ -34,4 +34,4 @@ What does this discovery mean for our style guide? Understanding the finer point
 
 ___
 
-*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.*
+*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.*

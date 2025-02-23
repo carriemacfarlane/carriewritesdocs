@@ -32,4 +32,4 @@ And that’s exactly what happened with our glossary. People embraced it! First,
 
 ___
 
-*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this blog.*
+*When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.*
