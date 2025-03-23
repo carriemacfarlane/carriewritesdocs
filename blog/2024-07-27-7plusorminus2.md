@@ -2,7 +2,7 @@
 slug: seven-plus-or-minus
 title: Seven, Plus or Minus Two
 authors: [carriem]
-tags: [learning, info architecture, style guide, UI/UX]
+tags: [learning, info architecture, style guide, UI/UX, accessibility]
 ---
 
 When I review draft knowledgebase articles for publication, I provide feedback and explanations that I extract from our style guide. My hope is that if the author understands why I’ve made a suggestion, they’ll make the change on their own next time. Sometimes, I double-check to make sure the rationale in our style guide is still valid.
