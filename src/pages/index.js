@@ -27,7 +27,7 @@ function HomepageHeader() {
         <div className="flex flex-col tablet:flex-row p-8 tablet:px-32 py-8 gap-8">
           <div className="tablet:w-1/2 flex flex-col justify-center">
             <p className="mb-2 tablet:mb-8 text-3xl tablet:text-5xl font-black">Hi, I'm Carrie.</p>
-            <p className="tablet:w-2/3">I’m an organized self-starter who knows how to do research. I'll ask informed questions, and I'll finish your work on time.</p>
+            <p className="tablet:w-2/3">I’m an organized self-starter who knows how to do research. I ask informed questions, and I finish my work on time.</p>
           </div>
           <div>
             <img className="w-96 shadow-lg shadow-slate-400" src={picOfCarrie} />
