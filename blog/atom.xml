@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.io/carriewritesdocs/blog</id>
     <title>Carrie Miyoshi Macfarlane Blog</title>
-    <updated>2025-04-19T00:00:00.000Z</updated>
+    <updated>2025-05-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.io/carriewritesdocs/blog"/>
     <subtitle>Carrie Miyoshi Macfarlane Blog</subtitle>
     <icon>https://github.io/carriewritesdocs/img/avatar200px-transparent.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Notices]]></title>
+        <id>https://github.io/carriewritesdocs/blog/notices</id>
+        <link href="https://github.io/carriewritesdocs/blog/notices"/>
+        <updated>2025-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When knowledgebase contributors started including notices in their drafts, I knew I needed to add instructions for notices to our style guide. A step-by-step procedure probably shouldn't have more notices than it has steps. Important and warning shouldn't be used interchangeably. And let's not sprinkle in hints, tips, notes, reminders, and good-to-knows!]]></summary>
+        <content type="html"><![CDATA[<p>When knowledgebase contributors started including notices in their drafts, I knew I needed to add instructions for notices to our style guide. A step-by-step procedure probably shouldn't have more notices than it has steps. <em>Important</em> and <em>warning</em> shouldn't be used interchangeably. And let's not sprinkle in <em>hints</em>, <em>tips</em>, <em>notes</em>, <em>reminders</em>, and <em>good-to-knows</em>!</p>
+<p>As writers who are tasked with helping readers complete essential tasks, we want to draw attention to every sentence that we publish. But if procedures contain too many notices, readers won’t... <em>notice</em> them! And if labels are applied inconsistently, they’ll be more distracting than they are helpful.</p>
+<p>Conveniently, just when I began thinking about how to select and define a small collection of notices, this very question was posted to the Write the Docs Slack. Based on the responses, I settled on <em>tip</em>, <em>notice</em>, <em>important</em>, and <em>warning</em>, and I gave each notice a definition that makes it more urgent than the one that precedes it.</p>
+<p>I’ve refined the instructions several times since then. Recently, this article  reaffirmed my decisions: <a href="https://www.adoc-studio.app/blog/warning-labels-in-asciidoc" target="_blank" rel="noopener noreferrer">Warning Labels in Technical Writing: 2025 Best Practices | adoc Studio</a>. But then a LinkedIn post made me wonder about ISO standards! Is it time to revisit the instructions again? Guess I'd better do more research.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/notices#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Style guide: Instructions for notices</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/notices#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
+<ul>
+<li>Which notices should we use, and how should we define each notice?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answer">Answer<a href="https://github.io/carriewritesdocs/blog/notices#answer" class="hash-link" aria-label="Direct link to Answer" title="Direct link to Answer">​</a></h3>
+<ul>
+<li><em>Tip</em>, <em>notice</em>, <em>important</em>, and <em>warning</em>. Each is more urgent than the one that precedes it.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/notices#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://www.adoc-studio.app/blog/warning-labels-in-asciidoc" target="_blank" rel="noopener noreferrer">Warning Labels in Technical Writing: 2025 Best Practices | adoc Studio</a></li>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice! This is a journal of my work.</em></p>]]></content>
+        <author>
+            <name>Carrie M. Macfarlane</name>
+            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
+        </author>
+        <category label="online reading" term="online reading"/>
+        <category label="style guide" term="style guide"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Red Pen, Green Pen Test]]></title>
         <id>https://github.io/carriewritesdocs/blog/red-pen</id>
@@ -34,7 +69,7 @@
 <li><a href="https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/" target="_blank" rel="noopener noreferrer">A simple technique for evaluating content | User Research in Government</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice! This is a journal of my work.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
@@ -70,7 +105,7 @@
 <li><a href="https://www.nngroup.com/articles/alt-text-usability/?lm=accessible-solutions-benefit-everyone&amp;pt=youtubevideo" target="_blank" rel="noopener noreferrer">Alt Text: Not Always Needed | Nielsen Norman</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice! This is a journal of my work.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
@@ -142,7 +177,7 @@
 <li><a href="https://www.youtube.com/watch?v=7WPEoJyK3DM" target="_blank" rel="noopener noreferrer">Streamlining Operations with Unified Terminology with Kelly Lawetz | TSW Podcast (Ep. 30)</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice! This is a journal of my work.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
