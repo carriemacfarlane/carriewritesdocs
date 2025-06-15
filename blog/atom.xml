@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.io/carriewritesdocs/blog</id>
     <title>Carrie Miyoshi Macfarlane Blog</title>
-    <updated>2025-05-17T00:00:00.000Z</updated>
+    <updated>2025-06-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.io/carriewritesdocs/blog"/>
     <subtitle>Carrie Miyoshi Macfarlane Blog</subtitle>
     <icon>https://github.io/carriewritesdocs/img/avatar200px-transparent.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Conventional Comments]]></title>
+        <id>https://github.io/carriewritesdocs/blog/comments</id>
+        <link href="https://github.io/carriewritesdocs/blog/comments"/>
+        <updated>2025-06-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When we revamped our editorial workflow and stopped reviewing draft knowledgebase articles in live group editing sessions, we needed to find a new way for reviewers to give feedback. In a  group session, a reviewer could express the sentiment behind their feedback in a conversation. A reviewer might ask, “I don’t understand that, what do you mean?” And the writer would explain. At the end, if a writer wasn’t sure where revisions were required, they could ask.]]></summary>
+        <content type="html"><![CDATA[<p>When we revamped our editorial workflow and stopped reviewing draft knowledgebase articles in live group editing sessions, we needed to find a new way for reviewers to give feedback. In a  group session, a reviewer could express the sentiment behind their feedback in a conversation. A reviewer might ask, “I don’t understand that, what do you mean?” And the writer would explain. At the end, if a writer wasn’t sure where revisions were required, they could ask.</p>
+<p>In our new workflow, reviewers would leave comments in drafts for writers to read later. How would the reviewers efficiently express the sentiment behind their feedback? We decided to use the <a href="https://conventionalcomments.org/" target="_blank" rel="noopener noreferrer">Conventional Comments</a> method, which I had learned about from my work with The Good Docs Project. Reviewers would label comments with tags like QUESTION, SUGGESTION, or ISSUE. The definitions for the tags would express the sentiment behind the comments. SUGGESTION means it’s up to the writer, while ISSUE means a revision is required.</p>
+<p>Reviewers and writers love the Conventional Comments method! In many ways, it’s better than a conversation. It's unambiguous and succinct, and it reminds reviewers of the types of feedback they should provide. A label called PRAISE is perhaps the most valuable. It prompts reviewers to tell writers when they’ve done something well, and this helps all of us improve our craft.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/comments#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Knowledgebase publication workflow</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/comments#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
+<ul>
+<li>How will reviewers efficiently express the sentiment behind the comments they leave in a draft knowledgebase article?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answer">Answer<a href="https://github.io/carriewritesdocs/blog/comments#answer" class="hash-link" aria-label="Direct link to Answer" title="Direct link to Answer">​</a></h3>
+<ul>
+<li>Tag the comments with Conventional Comments labels</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/comments#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://conventionalcomments.org/" target="_blank" rel="noopener noreferrer">Conventional Comments</a></li>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice! This is a journal of my work.</em></p>]]></content>
+        <author>
+            <name>Carrie M. Macfarlane</name>
+            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
+        </author>
+        <category label="workflow" term="workflow"/>
+        <category label="style guide" term="style guide"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notices]]></title>
         <id>https://github.io/carriewritesdocs/blog/notices</id>
@@ -141,7 +175,7 @@
 <li><a href="https://youtu.be/r6_nLTHZ1r4?si=jlmt9dC6dqmmjuWt" target="_blank" rel="noopener noreferrer">Struggling with AI: Job loss, energy use, and more | Grammar Girl</a></li>
 </ul>
 <hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice! This is a journal of my work.</em></p>]]></content>
         <author>
             <name>Carrie M. Macfarlane</name>
             <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
