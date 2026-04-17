@@ -2,11 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.io/carriewritesdocs/blog</id>
     <title>Carrie Miyoshi Macfarlane Blog</title>
-    <updated>2026-03-18T00:00:00.000Z</updated>
+    <updated>2026-04-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.io/carriewritesdocs/blog"/>
     <subtitle>Carrie Miyoshi Macfarlane Blog</subtitle>
     <icon>https://github.io/carriewritesdocs/img/avatar200px-transparent.png</icon>
+    <entry>
+        <title type="html"><![CDATA[First UI]]></title>
+        <id>https://github.io/carriewritesdocs/blog/first-ui</id>
+        <link href="https://github.io/carriewritesdocs/blog/first-ui"/>
+        <updated>2026-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just finished writing user interface text for a new product. I’ve done microcopy before, but this is first time I’m choosing all the words for all the screens. Documentation and UI writing conventions seem very similar, but in my UI text, I think I used a slightly a different tone. I wrote your more often than I usually do.]]></summary>
+        <content type="html"><![CDATA[<p>I just finished writing user interface text for a new product. I’ve done microcopy before, but this is first time I’m choosing all the words for all the screens. Documentation and UI writing conventions seem very similar, but in my UI text, I think I used a slightly a different tone. I wrote <em>your</em> more often than I usually do.</p>
+<p>It’s such a tiny difference! But I’m curious about why I did it, and (I’ll admit) whether I should have. Also, if I should have done it in the UI, should I be doing it in docs too?!!</p>
+<p>Maybe I used <em>your</em> more often because of the context: this particular product is a website builder. In documentation for other products, like accounting software and ticketing software, I use <em>your</em> when I talk about things the user owns: <em>your business</em>, or <em>your data</em>. When I talk about things the user doesn’t own, I use <em>the</em>: <em>the screen</em>, or <em>the menu</em>. But in the UI for the website builder, I said <em>your website</em>. Even though the user doesn’t own the website now, they will own it after they build it.</p>
+<p>Another possibility is that I knew what I was doing! In the Lunch &amp; Learn webinar below, Emilia Ronchetti says UI text should be both functional and motivating. Maybe my writerly instincts told me that <em>your</em> would motivate users! It conveys optimism:  you haven’t created this website yet, but you will!</p>
+<p>I’ll ask my tech writer network for their thoughts. In the meantime, if I keep using <em>your</em>, I probably I need to update our style guide.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/first-ui#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>User interface text for a new product</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/first-ui#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
+<ul>
+<li>Did I use a different tone when I switched from documentation to UI?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answer">Answer<a href="https://github.io/carriewritesdocs/blog/first-ui#answer" class="hash-link" aria-label="Direct link to Answer" title="Direct link to Answer">​</a></h3>
+<ul>
+<li>Possibly! UI text needs to be both functional and motivating.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/first-ui#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://youtu.be/txdhMz2AHP8?si=5G3SRHzzGhcpy6VD" target="_blank" rel="noopener noreferrer">Fundamentals of UX Writing | WANDR Lunch &amp; Learn</a></li>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice! This is a journal of my work.</em></p>]]></content>
+        <author>
+            <name>Carrie M. Macfarlane</name>
+            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
+        </author>
+        <category label="style guide" term="style guide"/>
+        <category label="UI/UX" term="UI/UX"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Make It Exist]]></title>
         <id>https://github.io/carriewritesdocs/blog/exist</id>
