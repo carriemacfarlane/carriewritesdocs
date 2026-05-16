@@ -25,7 +25,7 @@ I searched for a different approach and I found a good one in marketing literatu
 
 ### Answer
 
-* Contextualize our content decisions: Center-aligned paragraphs are hard to read, and the big brands know this.
+* Contextualize our formatting decisions: The big brands know that center-aligned paragraphs are hard to read.
 
 ### Citations
 
