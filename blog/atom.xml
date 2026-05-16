@@ -2,11 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.io/carriewritesdocs/blog</id>
     <title>Carrie Miyoshi Macfarlane Blog</title>
-    <updated>2026-04-18T00:00:00.000Z</updated>
+    <updated>2026-05-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.io/carriewritesdocs/blog"/>
     <subtitle>Carrie Miyoshi Macfarlane Blog</subtitle>
     <icon>https://github.io/carriewritesdocs/img/avatar200px-transparent.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Centered Paragraphs]]></title>
+        <id>https://github.io/carriewritesdocs/blog/centered-paragraphs</id>
+        <link href="https://github.io/carriewritesdocs/blog/centered-paragraphs"/>
+        <updated>2026-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I often see centered paragraphs when I proofread content for colleagues outside of Documentation. I suggest the text should be left-aligned, but when it goes out, it’s usually still centered.]]></summary>
+        <content type="html"><![CDATA[<p>I often see centered paragraphs when I proofread content for colleagues outside of Documentation. I suggest the text should be left-aligned, but when it goes out, it’s usually still centered.</p>
+<p>The documentation style guide doesn’t apply to non-technical materials like website copy and online tutorials. So when I give feedback on formatting to these writers, I really need to motivate them to want to make the change. I need a new argument for left-aligned paragraph text.</p>
+<p>What I’ve said in the past is that left-aligned text is accessible and readable for everyone. With left-aligned text, it’s easier to find the beginning of each new line. I’ve cited a few sources, but they're not getting through!</p>
+<p>People center paragraphs because they feel this makes the content look designed, or curated. It’s symmetrical! I get that. Most of the content I consume is left-aligned, so center-aligned text definitely stands out to me too.</p>
+<p>I searched for a different approach and I found a good one in marketing literature. Center-aligned paragraphs stand out for the wrong reasons. They seem unusual because <strong>the big brands no longer use them</strong>. Centered paragraphs are harder to read. Our message is stronger without them.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/centered-paragraphs#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Proofreading external communications content</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/centered-paragraphs#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
+<ul>
+<li>How can I convince writers outside the Documentation Team that paragraphs of text shouldn’t be centered?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answer">Answer<a href="https://github.io/carriewritesdocs/blog/centered-paragraphs#answer" class="hash-link" aria-label="Direct link to Answer" title="Direct link to Answer">​</a></h3>
+<ul>
+<li>Contextualize our content decisions: Center-aligned paragraphs are hard to read, and the big brands know this.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/centered-paragraphs#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://www.linkedin.com/posts/vivid-space-web-design_text-alignment-activity-7416531932055797761-LIPo/" target="_blank" rel="noopener noreferrer">Left-Aligned Text vs. Centre-Aligned Text | Vivid Space Web Design</a></li>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice! This is a journal of my work.</em></p>]]></content>
+        <author>
+            <name>Carrie M. Macfarlane</name>
+            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
+        </author>
+        <category label="accessibility" term="accessibility"/>
+        <category label="communication" term="communication"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First UI]]></title>
         <id>https://github.io/carriewritesdocs/blog/first-ui</id>
