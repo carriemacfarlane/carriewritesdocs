@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_site=self.webpackChunkportfolio_site||[]).push([[2239],{1246:e=>{e.exports=JSON.parse('{"permalink":"/carriewritesdocs/blog/page/3","page":3,"postsPerPage":10,"totalPages":3,"totalCount":21,"previousPage":"/carriewritesdocs/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

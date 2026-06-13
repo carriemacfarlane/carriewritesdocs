@@ -4,10 +4,44 @@
         <title>Carrie Miyoshi Macfarlane Blog</title>
         <link>https://github.io/carriewritesdocs/blog</link>
         <description>Carrie Miyoshi Macfarlane Blog</description>
-        <lastBuildDate>Sun, 17 May 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Content Strategy]]></title>
+            <link>https://github.io/carriewritesdocs/blog/content-strategy</link>
+            <guid>https://github.io/carriewritesdocs/blog/content-strategy</guid>
+            <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[I recently passed my 3-year work anniversary and I’ve decided it’s time to update my job description. In addition to writing, editing, and mentoring, I’ve been managing terminology, creating workflows, writing user interface text, and initiating cross-team conversations about content alignment. What I’ve been doing is content strategy, but I’ve never heard that term used in my office. To get buy-in for this revision, I’ll have to talk up content strategy. I’m looking for a soundbite that explains what content strategy is.]]></description>
+            <content:encoded><![CDATA[<p>I recently passed my 3-year work anniversary and I’ve decided it’s time to update my job description. In addition to writing, editing, and mentoring, I’ve been managing terminology, creating workflows, writing user interface text, and initiating cross-team conversations about content alignment. What I’ve been doing is content strategy, but I’ve never heard that term used in my office. To get buy-in for this revision, I’ll have to talk up content strategy. I’m looking for a soundbite that explains what content strategy is.</p>
+<p>Years ago, when I started exploring technical writing, I listened every week to a podcast from content strategist Kristina Halvorson. She talked about a content strategy “quad.” The quad was split into two halves, content and people. Substance and structure components made up the content half, and workflow and governance components made up the people half. If you pointed to the quad, you could quickly describe content strategy as a combination of content work and people work.</p>
+<p>Kristina has shared an updated content strategy quad on her blog. The new quad highlights different kinds of work: a content design half contains editorial and experience components, and a systems design half contains structure and process components. So now, you could quickly describe content strategy as a combination of content design work and systems design work.</p>
+<p>Both the old quad and the new quad describe the work I do, but the new quad is a better fit. My colleagues are used to hearing me talk about words. Now I need them to notice that I'm also doing systems work. So, I’ll explain that content strategy is a combination of content design and systems design. It connects our content work with our business goals.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/content-strategy#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Updating my job description to include content strategy.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/content-strategy#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
+<ul>
+<li>What’s a good way to describe content strategy? I need to make it easy for my boss and the rest of the company to start using the term.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answer">Answer<a href="https://github.io/carriewritesdocs/blog/content-strategy#answer" class="hash-link" aria-label="Direct link to Answer" title="Direct link to Answer">​</a></h3>
+<ul>
+<li>Content strategy is a combination of content design and systems design. It connects content work with business goals.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/content-strategy#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://www.braintraffic.com/blog/new-thinking-brain-traffics-content-strategy-quad" target="_blank" rel="noopener noreferrer">New Thinking: Brain Traffic’s Content Strategy Quad | Brain Traffic</a></li>
+<li><a href="https://www.braintraffic.com/blog/what-is-content-strategy" target="_blank" rel="noopener noreferrer">What Is Content Strategy? Connecting the Dots Between Disciplines | Brain Traffic</a></li>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice! This is a journal of my work.</em></p>]]></content:encoded>
+            <category>content management</category>
+            <category>info architecture</category>
+            <category>UI/UX</category>
+            <category>workflow</category>
+        </item>
         <item>
             <title><![CDATA[Centered Paragraphs]]></title>
             <link>https://github.io/carriewritesdocs/blog/centered-paragraphs</link>
@@ -609,41 +643,6 @@
             <category>learning</category>
             <category>online reading</category>
             <category>UI/UX</category>
-        </item>
-        <item>
-            <title><![CDATA[Ordered and Unordered Lists]]></title>
-            <link>https://github.io/carriewritesdocs/blog/lists</link>
-            <guid>https://github.io/carriewritesdocs/blog/lists</guid>
-            <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[I’m creating templates for colleagues to use when they write articles for the internal knowledgebase. This week, I tested my how-to template by comparing it to an older how-to article that was already published. The article was user-friendly in many ways. It focused on a single problem, it opened with an informative scope statement, and it provided plenty of white space.]]></description>
-            <content:encoded><![CDATA[<p>I’m creating templates for colleagues to use when they write articles for the internal knowledgebase. This week, I tested my how-to template by comparing it to an older how-to article that was already published. The article was user-friendly in many ways. It focused on a single problem, it opened with an informative scope statement, and it provided plenty of white space.</p>
-<p>What my editorial eye zoomed in on was the lower half of the page. The content there was divided into a series of short paragraphs, each only 1 or 2 sentences long. When I read the paragraphs more closely, I realized that many of them were troubleshooting steps.</p>
-<p>I concluded that my how-to template should call out the importance of using numbered lists for steps. It will need to explain why numbered lists are helpful to readers.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/lists#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
-<ul>
-<li>Templates</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="questions">Questions<a href="https://github.io/carriewritesdocs/blog/lists#questions" class="hash-link" aria-label="Direct link to Questions" title="Direct link to Questions">​</a></h3>
-<ul>
-<li>Why should we use bulleted lists and numbered lists?</li>
-<li>Why should long lists be organized and divided into sections with headings?</li>
-<li>Why do we need white space?</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answers">Answers<a href="https://github.io/carriewritesdocs/blog/lists#answers" class="hash-link" aria-label="Direct link to Answers" title="Direct link to Answers">​</a></h3>
-<ul>
-<li>People don’t read online, they seek</li>
-<li>To guide the reader’s attention, ask: Can you break any complicated concepts out into groups of simple items? If the answer is yes, then use numbered (or, <em>ordered</em>) lists for sequential items, and use bulleted (or, <em>unordered</em>) lists for non-sequential items</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/lists#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
-<ul>
-<li><a href="https://www.nngroup.com/articles/how-people-read-online/" target="_blank" rel="noopener noreferrer">How People Read Online: New and Old Findings | Nielsen Norman Group (2020)</a></li>
-<li><a href="https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/" target="_blank" rel="noopener noreferrer">F-Shaped Pattern of Reading on the Web: Misunderstood, But Still Relevant (Even on Mobile) | Nielsen Norman Group (2017)</a></li>
-<li><a href="https://www.nngroup.com/articles/blah-blah-text-keep-cut-or-kill/" target="_blank" rel="noopener noreferrer">Blah-Blah Text: Keep, Cut, or Kill? | Nielsen Norman Group (2007)</a></li>
-</ul>]]></content:encoded>
-            <category>info architecture</category>
-            <category>online reading</category>
-            <category>style guide</category>
-            <category>workflow</category>
         </item>
     </channel>
 </rss>
