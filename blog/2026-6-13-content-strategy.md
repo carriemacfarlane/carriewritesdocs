@@ -2,7 +2,7 @@
 slug: content-strategy
 title: Content Strategy
 authors: [carriem]
-tags: [content management, info architecture, UI/UX, workflow]
+tags: [content strategy, info architecture, UI/UX, workflow]
 ---
 
 I recently passed my 3-year work anniversary and I’ve decided it’s time to update my job description. In addition to writing, editing, and mentoring, I’ve been managing terminology, creating workflows, writing user interface text, and initiating cross-team conversations about content alignment. What I’ve been doing is content strategy, but I’ve never heard that term used in my office. To get buy-in for this revision, I’ll have to talk up content strategy. I’m looking for a soundbite that explains what content strategy is.
