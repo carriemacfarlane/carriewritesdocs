@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_site=self.webpackChunkportfolio_site||[]).push([[752],{1440:e=>{e.exports=JSON.parse('{"permalink":"/carriewritesdocs/blog/tags/style-guide/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/carriewritesdocs/blog/tags/style-guide","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
