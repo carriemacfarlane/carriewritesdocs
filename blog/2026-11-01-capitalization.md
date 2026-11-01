@@ -2,7 +2,7 @@
 slug: capitalization
 title: Capitalization
 authors: [carriem]
-tags: [style guide, UI/UX]
+tags: [style guide, content strategy]
 ---
 The new Strategic Naming Team was halfway through its first assignment. We were choosing a name for a feature that completes the first step of the customer billing process. We had identified *recurring assessments* as the core concept, so that’s what we’d call it. But should we capitalize *recurring assessments*?
 
