@@ -2,11 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.io/carriewritesdocs/blog</id>
     <title>Carrie Miyoshi Macfarlane Blog</title>
-    <updated>2026-08-27T00:00:00.000Z</updated>
+    <updated>2026-11-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.io/carriewritesdocs/blog"/>
     <subtitle>Carrie Miyoshi Macfarlane Blog</subtitle>
     <icon>https://github.io/carriewritesdocs/img/avatar200px-transparent.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Capitalization]]></title>
+        <id>https://github.io/carriewritesdocs/blog/capitalization</id>
+        <link href="https://github.io/carriewritesdocs/blog/capitalization"/>
+        <updated>2026-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new Strategic Naming Team was halfway through its first assignment. We were choosing a name for a feature that completes the first step of the customer billing process. We had identified recurring assessments as the core concept, so that’s what we’d call it. But should we capitalize recurring assessments?]]></summary>
+        <content type="html"><![CDATA[<p>The new Strategic Naming Team was halfway through its first assignment. We were choosing a name for a feature that completes the first step of the customer billing process. We had identified <em>recurring assessments</em> as the core concept, so that’s what we’d call it. But should we capitalize <em>recurring assessments</em>?</p>
+<p>Our goal was to choose a name that could be used consistently across documentation, support, and advertising. “Turn on the setting that allows you to automatically start the billing process every month” is a mouthful. No one would say all those words every time! “Turn on recurring assessments” (or, “Turn on Recurring Assessments”!) was concise and repeatable.</p>
+<p>All features have to be called something, and capitalized names get noticed. But as the Intuit design system <a href="https://contentdesign.intuit.com/style-and-usage/formatting/#capitalization" target="_blank" rel="noopener noreferrer">points out</a>, if all features are capitalized, the user and the brand suffers. Imagine a paragraph where capital letters interrupt every sentence. It’s frustrating! When all features are capitalized, the impact of the most valuable features is weakened.</p>
+<p>I appreciate systems designer <a href="https://kubie.co/blog/fighting-feature-names" target="_blank" rel="noopener noreferrer">Scott Kubie’s reminder</a> that sometimes a chair is just a chair, not an Eames Lounger. But when our devs have worked really hard on a new feature, how can we tell that it's an Eames Lounger? Sometimes we realize only after the excitement of release that what we had was just a chair.</p>
+<p>The Strategic Naming Team applied a style guide rule based on the Intuit guide: noteworthy features that help users complete significant tasks are capitalized, and commonplace features that help users complete minor tasks are not. The new feature helps some users complete one step in the billing process. Our marketing team didn’t plan to publicize it. This means it’s a minor task, and it’s not noteworthy. It’s <em>recurring assessments</em>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-im-working-on">What I’m Working On<a href="https://github.io/carriewritesdocs/blog/capitalization#what-im-working-on" class="hash-link" aria-label="Direct link to What I’m Working On" title="Direct link to What I’m Working On">​</a></h3>
+<ul>
+<li>Capitalization of feature names.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="question">Question<a href="https://github.io/carriewritesdocs/blog/capitalization#question" class="hash-link" aria-label="Direct link to Question" title="Direct link to Question">​</a></h3>
+<ul>
+<li>When should a feature name be capitalized?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="answer">Answer<a href="https://github.io/carriewritesdocs/blog/capitalization#answer" class="hash-link" aria-label="Direct link to Answer" title="Direct link to Answer">​</a></h3>
+<ul>
+<li>Noteworthy features that help users complete significant tasks are capitalized. Commonplace features that help users complete minor tasks are not capitalized.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/capitalization#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
+<ul>
+<li><a href="https://contentdesign.intuit.com/style-and-usage/formatting/#capitalization" target="_blank" rel="noopener noreferrer">Formatting | Intuit</a></li>
+<li><a href="https://kubie.co/blog/fighting-feature-names" target="_blank" rel="noopener noreferrer">Fighting Proper Noun Feature Names | Scott Kubie</a></li>
+</ul>
+<hr>
+<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice! This is a journal of my work.</em></p>]]></content>
+        <author>
+            <name>Carrie M. Macfarlane</name>
+            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
+        </author>
+        <category label="style guide" term="style guide"/>
+        <category label="UI/UX" term="UI/UX"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terminology List with AI]]></title>
         <id>https://github.io/carriewritesdocs/blog/term-list-AI</id>
@@ -699,26 +736,5 @@
         </author>
         <category label="UI/UX" term="UI/UX"/>
         <category label="accessibility" term="accessibility"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trust Equation]]></title>
-        <id>https://github.io/carriewritesdocs/blog/trust</id>
-        <link href="https://github.io/carriewritesdocs/blog/trust"/>
-        <updated>2024-05-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Technical communication podcasts funnel my thoughts toward work every morning during my commute. In a Content Strategy podcast that I listened to a few days ago, Kristina Halvorson’s guest Chelsea Larsson referred to something called the Trust Equation. As Larsson described it, the Trust Equation is a framework that illustrates how people assess the trustworthiness of their colleagues. It caught my attention because it validated my approach to work life. I think I have a decent chance of getting a good score!]]></summary>
-        <content type="html"><![CDATA[<p>Technical communication podcasts funnel my thoughts toward work every morning during my commute. In a <em>Content Strategy</em> podcast that I listened to a few days ago, Kristina Halvorson’s guest Chelsea Larsson referred to something called the Trust Equation. As Larsson described it, the Trust Equation is a framework that illustrates how people assess the trustworthiness of their colleagues. It caught my attention because it validated my approach to work life. I think I have a decent chance of getting a good score!</p>
-<p>In the Trust Equation, self-orientation is the denominator. I tend to keep my self-orientation at work fairly low. I prefer learning about colleagues to talking about myself, and showing that I care about other people  makes me feel good.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="citations">Citations<a href="https://github.io/carriewritesdocs/blog/trust#citations" class="hash-link" aria-label="Direct link to Citations" title="Direct link to Citations">​</a></h3>
-<ul>
-<li><a href="https://www.contentstrategy.com/episodes/episode-42-chelsea-larsson-zendesk-tactics-to-advocate-for-content-design" target="_blank" rel="noopener noreferrer">Ep. 42: Chelsea Larsson, Zendesk | The Content Strategy Podcast</a></li>
-<li><a href="https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation" target="_blank" rel="noopener noreferrer">Understanding The Trust Equation | Trusted Advisor.com</a></li>
-</ul>
-<hr>
-<p><em>When I was a librarian, I told students to do question-based research and to cite their sources. Now that I'm a technical writer, I follow my own advice in this journal of my work.</em></p>]]></content>
-        <author>
-            <name>Carrie M. Macfarlane</name>
-            <uri>https://www.linkedin.com/in/carrie-m-macfarlane/</uri>
-        </author>
-        <category label="communication" term="communication"/>
     </entry>
 </feed>
