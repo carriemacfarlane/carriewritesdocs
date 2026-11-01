@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio_site=self.webpackChunkportfolio_site||[]).push([[563],{5472:t=>{t.exports=JSON.parse('{"label":"content strategy","permalink":"/carriewritesdocs/blog/tags/content-strategy","allTagsPath":"/carriewritesdocs/blog/tags","count":2,"unlisted":false}')}}]);
