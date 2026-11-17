@@ -42,7 +42,7 @@ Update files in local repository:
 Update files in GitHub Pages:
 
 1. In iTerm, enter `GIT_USER=carriemacfarlane yarn deploy`
-1. If prompted, enter GitHub token. When a `Done` message displays above the command line, the changes are deployed.
+1. If prompted, enter GitHub token. The updates are deployed.
     :::note NOTE
     Token is stored in saved passwords.
     :::
