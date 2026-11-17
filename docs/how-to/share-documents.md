@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Share Documents
 
-The Zoom Host displays shared meeting documents to all participants, online and in person, in Zoom.
+The Zoom Host displays shared meeting documents to all participants, online and in person.
 
 ## Reminder
 

@@ -28,7 +28,7 @@ Public hearings must be recorded and saved. The Zoom Host records the meetings a
 
 1. After the hearing, log in to the ZA's Zoom account and download the recordings.
     :::note NOTE:
-    Zoom sometimes requires a passcode. The passcode is sent to the Zoning Administrator’s email account, so schedule a time to log in when the Zoning Administrator is available to provide the code via text message or phone.
+    Zoom sometimes requires a passcode. The passcode is sent to the Zoning Administrator’s email account, so schedule a time to log in when the Zoning Administrator is available to provide the code in a text message or phone call.
     :::
 
 1. Temporarily store the recordings in a personal Google Drive account. Use these naming conventions so that the recordings will be easy to identify later:
