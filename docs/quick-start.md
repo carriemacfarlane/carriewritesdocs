@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Quick Start
 
-After I learned Git for The Good Docs Project, I looked for an opportunity to use it more often. Creating and maintaining a portfolio site on GitHub Pages gives me an excuse to use Git, markdown, and Docusaurus about once a month. This quick start guide makes sure I don’t skip any steps.
+Maintaining a portfolio site on GitHub Pages gives me an excuse to use Git, markdown, and Docusaurus. This quick start guide makes sure I don’t skip any steps.
 
 ## Revise Portfolio Site
 

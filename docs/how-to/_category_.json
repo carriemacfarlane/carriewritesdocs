@@ -3,6 +3,6 @@
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "The Vergennes Development Review Board (DRB) makes decisions about how land can be used. DRB meetings must comply with Vermont’s Open Meeting Law, which requires public access to meetings and records. When DRB meetings suddenly went online due to Covid, I became our tech expert. I ran the online components of the meetings, and I documented my procedure. Because other board members might need to follow the procedure, the documentation had to be complete, precise, and usable for non-experts. All of these requirements made for a rather long how-to document! I divided the document into chunks to make it easier to scan. I tested it with a colleague and then shared it with the group. The original how-to was a printed PDF. I recreated it here using the Docusaurus tutorial layout."
+    "description": "When Development Review Board (DRB) meetings went online, I became the tech expert. I documented the procedure for running the online components of our meetings in case someone with no tech background needed to do it. I divided the procedure into chunks to make it easier to scan. The original how-to was a printed PDF. I recreated it here using the Docusaurus tutorial layout."
   }
 }
